@@ -1,0 +1,1084 @@
+0
+
+About this document
+
+Gödel’s famous proof [2, 1] is highly interesting, but may be hard to understand. Some
+of this difficulty is due to the fact that the notation used by Gödel has been largely
+replaced by other notation. Some of this difficulty is due to the fact that while Gödel’s
+formulations are concise, they sometimes require the readers to make up their own
+interpretations for formulae, or to keep definitions in mind that may not seem mnemonic
+to them.
+This document is a translation of a large part of Gödel’s proof. The translation
+happens on three levels:
+• from German to English
+• from Gödel’s notation to more common mathematical symbols
+• from paper to hyper-text
+Hyper-text and colors are used as follows: definitions take place in blue italics, like
+this: defined term. Wherever the defined term is used, we have a red hyper-link to the
+place in the text where the term was first defined, like this: defined term. Furthermore,
+each defined term appears in the clickable index at the end of this document. In the
+margin of the document, there are page-numbers like this [173], which refer to the
+original document. Here are links for looking up something by page: 173 174 175 176
+177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 196. Finally, small text
+snippets in magenta are comments not present in the original text, but perhaps useful
+for the reader.
+This translation omits all foot-notes from the original, and only contains sections 1
+and 2 (out of four).
+The translation comes as-is, with no explicit or implied warranty. Use at your own
+risk, the translator is not willing to take any responsibility for problems you might
+have because of errors in the translation, or because of misunderstandings. You are
+permitted to reproduce this document all you like, but only if you include this notice.
+
+Boulder, November 27, 2000
+
+Martin Hirzel
+1
+
+[173]
+
+On formally undecidable propositions of Principia
+Mathematica and related systems I
+Kurt Gödel
+1931
+
+1
+
+Introduction
+
+The development of mathematics towards greater exactness has, as is well-known, lead
+to formalization of large areas of it such that you can carry out proofs by following a few
+mechanical rules. The most comprehensive current formal systems are the system of
+Principia Mathematica (PM) on the one hand, the Zermelo-Fraenkelian axiom-system
+of set theory on the other hand. These two systems are so far developed that you
+can formalize in them all proof methods that are currently in use in mathematics, i.e.
+you can reduce these proof methods to a few axioms and deduction rules. Therefore,
+the conclusion seems plausible that these deduction rules are sufficient to decide all
+mathematical questions expressible in those systems. We will show that this is not true,
+but that there are even relatively easy problem in the theory of ordinary whole numbers
+that can not be decided from the axioms. This is not due to the nature of these systems,
+[174]
+but it is true for a very wide class of formal systems, which in particular includes all
+those that you get by adding a finite number of axioms to the above mentioned systems,
+provided the additional axioms don’t make false theorems provable.
+Let us first sketch the main intuition for the proof, without going into detail and
+of course without claiming to be exact. The formulae of a formal system (we will
+restrict ourselves to the PM here) can be viewed syntactically as finite sequences of
+the basic symbols (variables, logical constants, and parentheses or separators), and it is
+easy to define precisely which sequences of the basic symbols are syntactically correct
+formulae and which are not. Similarly, proofs are formally nothing else than finite
+sequences of formulae (with specific definable properties). Of course, it is irrelevant
+for meta-mathematical observations what signs are taken for basic symbols, and so we
+will chose natural numbers for them. Hence, a formula is a finite sequence of natural
+numbers, and a proof schema is a finite sequence of finite sequences of natural numbers.
+The meta-mathematical concepts (theorems) hereby become concepts (theorems) about
+natural numbers, which makes them (at least partially) expressible in the symbols of the
+system PM. In particular, one can show that the concepts “formula”, “proof schema”,
+“provable formula” are all expressible within the system PM, i.e. one can, for example,
+2
+
+come up with a formula F (v) of PM that has one free variable v (whose type is sequence
+of numbers) such that the semantic interpretation of F (v) is: v is a provable formula.
+We will now construct an undecidable theorem of the system PM, i.e. a theorem A for
+which neither A nor ¬A is provable, as follows:
+[175]
+We will call a formula of PM with exactly one free variable of type natural numbers a
+class-sign. We will assume the class-signs are somehow numbered, call the nth one Rn ,
+and note that both the concept “class-sign” and the ordering relation R are definable
+within the system PM. Let α be an arbitrary class-sign; with α(n) we denote the formula
+that you get when you substitute n for the free variable of α. Also, the ternary relation
+x ⇔ y(z) is definable within PM. Now we will define a class K of natural numbers as
+follows:
+K = {n ∈ IN | ¬provable(Rn (n))}
+
+(1)
+
+(where provable(x) means x is a provable formula). With other words, K is the set of
+numbers n where the formula Rn (n) that you get when you insert n into its own formula Rn
+is improvable. Since all the concepts used for this definition are themselves definable in
+PM, so is the compound concept K, i.e. there is a class-sign S such that the formula
+S(n) states that n ∈ K. As a class-sign, S is identical with a specific Rq , i.e. we have
+S ⇔ Rq
+for a specific natural number q. We will now prove that the theorem Rq (q) is
+undecidable within PM. We can understand this by simply plugging in the definitions:
+Rq (q) ⇔ S(q) ⇔ q ∈ K ⇔ ¬provable(Rq (q)), in other words, Rq (q) states “I am improvable.”
+
+Assuming the theorem Rq (q) were provable, then it would also be true, i.e. because of
+(1) ¬provable(Rq (q)) would be true in contradiction to the assumption. If on the other
+hand ¬Rq (q) were provable, then we would have q 6∈ K, i.e. provable(Rq (q)). That
+means that both Rq (q) and ¬Rq (q) would be provable, which again is impossible.
+The analogy of this conclusion with the Richard-antinomy leaps to the eye; there
+is also a close kinship with the liar-antinomy, because our undecidable theorem Rq (q)
+states that q is in K, i.e. according to (1) that Rq (q) is not provable. Hence, we have
+in front of us a theorem that states its own unprovability. The proof method we just
+applied is obviously applicable to any formal system that on the one hand is expressive
+[176]
+enough to allow the definition of the concepts used above (in particular the concept
+“provable formula”), and in which on the other hand all provable formulae are also
+true. The following exact implementation of the proof will among other things have
+the goal to replace the second prerequisite by a purely formal and much weaker one.
+From the remark that Rq (q) states its own improvability it immediately follows that
+Rq (q) is correct, since Rq (q) is in fact unprovable (because it is undecidable). The
+theorem which is undecidable within the system PM has hence been decided by metamathematical considerations. The exact analysis of this strange fact leads to surprising
+results about consistency proofs for formal systems, which will be discussed in section
+4 (theorem XI).
+3
+
+2
+
+Main Result
+
+We will now exactly implement the proof sketched above, and will first give an exact
+description of the formal system P , for which we want to show the existence of undecidable theorems. By and large, P is the system that you get by building the logic of
+PM on top the Peano axioms (numbers as individuals, successor-relation as undefined
+basic concept).
+
+2.1
+
+Definitions
+
+The basic signs of system P are the following:
+I. Constant: “¬” (not), “∨” (or), “∀” (for all), “0” (zero), “succ” (the successor of),
+“(”, “)” (parentheses). Gödel’s original text uses a different notation, but the reader
+may be more familiar with the notation adapted in this translation.
+
+II. Variable of type one (for individuals, i.e. natural numbers including 0): “x1 ”,
+“y1 ”, “z1 ”, . . .
+Variables of type two (for classes of individuals, i.e. subsets of IN): “x2 ”, “y2 ”, “z2 ”,
+...
+Variables of type three (for classes of classes of individuals, i.e. sets of subsets of
+IN): “x3 ”, “y3 ”, “z3 ”, . . .
+And so on for every natural number as type.
+Remark: Variables for binary or n-ary functions (relations) are superfluous as basic signs, because one can define relations as classes of ordered pairs and ordered pairs
+as classes of classes, e.g. the ordered pair (a, b) by {{a}, {a, b}}, where {x, y} and {x}
+stand for the classes whose only elements are x, y and x, respectively.
+[177]
+By a sign of type one we understand a combination of signs of the form
+a, succ(a), succ(succ(a)), succ(succ(succ(a))), . . .
+
+etc.,
+
+where a is either 0 or a variable of type one. In the first case we call such a sign a
+number-sign. For n > 1 we will understand by a sign of type n a variable of type n.
+We call combinations of signs of the form a(b), where b is a sign of type n and a a sign
+of type n + 1, elementary formulae. We define the class of formulae as the smallest
+set that contains all elementary formulae and that contains for a, b always also ¬(a),
+(a) ∨ (b), ∀x . (a) (where x is an arbitrary variable). We call (a) ∨ (b) the disjunction
+of a and b, ¬(a) the negation and ∀x . (a) the generalization of a. A formula that
+contains no free variables (where free variables is interpreted in the usual manner) is
+called proposition-formula. We call a formula with exactly n free individual-variables
+(and no other free
+ variables) an n-ary relation sign, for n = 1 also class-sign.
+v
+By substa b (where a is a formula, v is a variable, and b is a sign of the same type
+as v) we understand the formula that you get by substituting b for every free occurrence
+4
+
+of v in a. We say that a formula a is a type-lift of another formula b if you can obtain
+a from b by increasing the type of all variables occurring in a by the same number.
+The following formulae (I through V) are called axioms (they are written with the
+help of the abbreviations (defined in the usual manner) ∧, ⇒, ⇔, ∃x, =, and using the
+customary conventions for leaving out parentheses):
+I. The Peano axioms, which give fundamental properties for natural numbers.
+1. ¬(succ(x1 ) = 0) We start to count at 0.
+2. succ(x1 ) = succ(y1 ) ⇒ x1 = y1 If two natural numbers x1,2 ∈ IN have the same
+successor, they are equal.
+
+
+
+
+3. x2 (0) ∧ ∀x1 . x2 (x1 ) ⇒ x2 (succ(x1 )) ⇒ ∀x1 . x2 (x1 ) We can prove a predicate
+x2 on natural numbers by natural induction.
+
+II. Every formula obtained by inserting arbitrary formulae for p, q, r in the following
+schemata. We call these proposition axioms.
+1. p ∨ p ⇒ p
+2. p ⇒ p ∨ q
+3. p ∨ q ⇒ q ∨ p
+4. (p ⇒ q) ⇒ (r ∨ p ⇒ r ∨ q)
+III. Every formula obtained from the two schemata
+1. (∀v . a) ⇒ substa
+
+ 
+v
+c
+
+2. (∀v . b ∨ a) ⇒ (b ∨ ∀v . a)
+by inserting the following things for a, v, b, c (and executing the operation denoted
+by subst in 1.):
+Insert an arbitrary formula for a, an arbitrary variable for v, any formula where v
+does not occur free for b, and for c a sign of the same type as v with the additional
+requirement that c does not contain a free variable that would be bound in a
+position in a where v is free.
+For lack of a better name, we will call these quantor axioms.
+
+IV. Every formula obtained from the schema
+1. ∃u . ∀v . (u(v) ⇔ a)
+by inserting for v and u any variables of type n and n + 1 respectively and for
+a a formula that has no free occurrence of u. This axiom takes the place of the
+reducibility axiom (the comprehension axiom of set theory).
+5
+
+[178]
+
+V. Any formula obtained from the following by type-lift (and the formula itself):
+
+
+
+
+1. ∀x1 . (x2 (x1 ) ⇔ y2 (x1 )) ⇒ x2 = y2
+This axiom states that a class is completely determined by its elements. Let us
+call it the set axiom.
+
+A formula c is called the immediate consequence of a and b (of a) if a is the formula
+¬b ∨ c (or if c is the formula ∀v . a, where v is any variable). The class of provable
+formulae is defined as the smallest class of formulae that contains the axioms and is
+closed under the relation “immediate consequence”.
+
+2.2
+
+Gödel-numbers
+
+We will now uniquely associate the primitive signs of system P with natural numbers
+as follows:
+“0” . . . 1 “succ” . . . 3 “¬” . . . 5
+“ ∨ ” . . . 7 “∀” . . . 9 “(” . . . 11
+“)” . . . 13
+Furthermore we will uniquely associate each variable of type n with a number of the
+form pn (where p is a prime > 13). Thus there is a one-to-one-correspondence between
+every finite string of basic signs and a sequence of natural numbers. We now map the
+sequences of natural numbers (again in one-to-one correspondence) to natural numbers
+by having the sequence n1 , n2 , . . . , nk correspond to the number 2n1 ·3n2 ·. . .·pnk k , where pk
+is the kth prime (by magnitude). Thus, there is not only a uniquely associated natural
+number for every basic sign, but also for every sequence of basic signs. We will denote
+the number associated with the basic sign (resp. the sequence of basic signs) a by Φ(a).
+Now let R(a1 , a2 , . . . , an ) be a given class or relation between basic signs or sequences
+of them. We will associate that with the class (relation) R0 (x1 , x2 , . . . , xn ) that holds
+between x1 , x2 , . . . , xn if and only if there are a1 , a2 , . . . , an such that for i = 1, 2, . . . , n
+we have xi = Φ(ai ) and the R(a1 , a2 , . . . , an ) holds. We will denote the classes and
+relations on natural numbers which are associated with the meta-mathematical concepts, e.g. “variable”, “formula”, “proposition-formula”, “axiom”, “provable formula”
+etc., in the above mentioned manner, by the same word in small caps. The proposition
+that there are undecidable problems in system P for example reads like this: There are
+proposition-formulae a, such that neither a nor the negation of a is a provable
+formula.
+
+2.3
+
+Primitive recursion
+
+At this point, we will make an excursion to make an observation that a priori does not
+have anything to do with the system P, and will first give the following definition: we
+6
+
+[179]
+
+say a number-theoretical formula φ(x1 , x2 , . . . , xn ) is defined via primitive recursion in
+terms of the number-theoretical formulae ψ(x1 , x2 , . . . , xn−1 ) and µ(x1 , x2 , . . . , xn+1 ) if
+the following holds for all x2 , . . . , xn , k:
+φ(0, x2 , . . . , xn ) = ψ(x2 , . . . , xn ),
+φ(k + 1, x2 , . . . , xn ) = µ(k, φ(k, x2 , . . . , xn ), x2 , . . . , xn )
+
+(2)
+
+We call a number-theoretical formula φ primitive recursive if there is a finite sequence of number-theoretical formulae φ1 , φ2 , . . . , φn ending in φ such that every function φk of the sequence is either defined from two of the preceding formulae by primitive recursion or results by inserting into any of the preceding ones or, and this is the base
+[180]
+case, is a constant or the successor function succ(x) = x + 1. The length of the shortest
+sequence of φi belonging to a primitive recursive function φ is called its degree. We
+call a relation R(x1 , . . . , xn ) primitive recursive if there is a primitive recursive function
+φ(x1 , . . . , xn ) such that for all x1 , x2 , . . . , xn ,
+R(x1 , . . . , xn ) ⇔ (φ(x1 , . . . , xn ) = 0).
+The following theorems hold:
+I. Every function (relation) that you get by inserting primitive recursive functions
+in the places of variables of other primitive recursive functions (relations) is itself
+primitive recursive; likewise every function that you get from primitive recursive
+functions by the schema (2).
+II. If R and S are primitive recursive relations, then so are ¬R, R ∨ S (and therefore
+also R ∧ S).
+III. If the functions φ(~x), ψ(~y ) are primitive recursive, then so is the relation φ(~x) =
+ψ(~y ). We have resorted to a vector notation ~x to denote finite-length tuples of variables.
+IV. If the function φ(~x) and the relation R(y, ~z) are primitive recursive, then so are
+the relations S, T
+
+
+
+
+
+
+
+
+S(~x, ~z) ⇔ ∃y ≤ φ(~x) . R(y, ~z)
+
+T (~x, ~z) ⇔ ∀y ≤ φ(~x) . R(y, ~z)
+as well as the function ψ
+
+
+
+
+ψ(~x, ~z) = argmin y ≤ φ(~x) . R(y, ~z)
+
+where argmin x ≤ f (x) . F (x) stands for the smallest x for which (x ≤ f (x)) ∧
+F (x) holds, and for 0 if there is no such number. Readers to whom an operational
+7
+
+description appeals more may want to think of this as a loop that tries every value from
+1 to φ(~x) to determine the result. The crucial point here is this theorem does not state
+that an unbounded loop (or recursion) is primitive recursive; those are in fact strictly
+more powerful in terms of computability.
+
+Theorem I follows immediately from the definition of “primitive recursive”. Theorems II and III are based upon the fact that the number-theoretical functions
+α(x), β(x, y), γ(x, y)
+corresponding to the logical concepts ¬, ∨, = (where n = 0 is taken for true and n 6= 0
+for false), namely
+
+α(x) =
+
+(
+
+1 for x = 0
+0 for x 6= 0
+
+β(x, y) =
+
+(
+
+0 if one or both of x, y are = 0
+1 if both x, y are 6= 0
+
+γ(x, y) =
+
+(
+
+0 if x = y
+1 if x 6= y
+
+are primitive recursive, as one can easily convince oneself. The proof for theorem
+IV is, in short, the following: by assumption there is a primitive recursive ρ(y, ~z) such
+that:
+R(y, ~z) ⇔ (ρ(y, ~z) = 0)
+Using the recursion-schema (2) we now define a function χ(y, ~z) as follows:
+χ(0, ~z) = 0
+χ(n + 1, ~z) = (n + 1) · A + χ(n, ~z) · α(A)
+
+
+
+
+
+
+
+
+
+
+
+
+where A = α α(ρ(0, ~z)) · α ρ(n + 1, ~z) · α χ(n, ~z) .
+A, which makes use of the above defined α and of the fact that a product is 0 if one of its
+factors is 0, can be described by the following pseudo-code:
+A = if(ρ(0, ~z) = 0)
+then 0
+else if(ρ(n + 1, ~z) 6= 0)
+then 0
+else if(χ(n, ~z) 6= 0)
+then 0
+else 1
+It is a nice example for how arithmetic can be used to emulate logics.
+
+Therefore, χ(n + 1, ~z) is either = n + 1 (if A = 1) or = χ(n, ~z) (if A = 0). Obviously,
+the first case will occur if and only if all factors of A are 1, i.e. if we have
+8
+
+[181]
+
+¬R(0, ~z) ∧ R(n + 1, ~z) ∧ (χ(n, ~z) = 0).
+This implies that the function χ(n, ~z) (viewed as a function of n) remains 0 up to
+the smallest value of n for which R(n, ~z) holds, and has that value from then on (if
+R(0, ~z) already holds then χ(n, ~z) is correspondingly constant and = 0). Therefore, we
+have
+ψ(~x, ~z) = χ(φ(~x), ~z)
+S(~x, ~z) ⇔ R(ψ(~x, ~z), ~z).
+It is easy to reduce the relation T to a case analogous to that of S by negation.
+This concludes the proof of theorem IV.
+
+2.4
+
+Expressing metamathematical concepts
+
+As one can easily convince oneself, the functions x + y, x · y, xy and furthermore the
+relations x < y and x = y are primitive recursive. For example, the function x + y can
+be constructed as 0 + y = y and (k + 1) + y = succ(k + y), i.e. ψ(y) = y and µ(k, l, y) =
+succ(l) in schema (2). Using these concepts, we will now define a sequence of functions
+
+(relations) 1-45, each of which is defined from the preceding ones by the methods given
+by theorems I through IV. In doing so, usually multiple of the definition steps allowed
+by theorems I through IV are combined in one. Each of the functions (relations) 1-45,
+among which we find for example the concepts “formula”, “axiom”, and “immediate
+consequence”, is therefore primitive recursive.
+1. y | x ⇔ ∃z ≤ x . x = y · z
+x is divisible by y.
+
+
+
+
+
+
+
+
+2. isPrime(x) ⇔ ¬ ∃z ≤ x . (z 6= 1 ∧ z 6= x ∧ z | x) ∧ x > 1
+x is a prime number.
+
+3. prFactor(0, x) = 0
+
+
+prFactor(n + 1, x) = argmin y ≤ x . isPrime(y) ∧ y | x ∧ y > prFactor(n, x)
+prFactor(n, x) is the nth (by size) prime number contained in x.
+4. 0! = 1
+(n + 1)! = (n + 1) · n!
+5. nthPrime(0) = 0
+
+
+nthPrime(n+1) = argmin y ≤ (nthPrime(n)!+1) . isPrime(y)∧y > nthPrime(n)
+nthPrime(n) is the nth (by size) prime number.
+
+9
+
+[182]
+
+
+
+
+
+6. item(n, x) = argmin y ≤ x . (prFactor(n, x)y | x) ∧ ¬(prFactor(n, x)y+1 | x)
+item(n, x) is the nth item of the sequence of numbers associated with x (for n > 0 and
+n not larger than the length of this sequence).
+
+
+
+
+7. length(x) = argmin y ≤ x . prFactor(y, x) > 0 ∧ prFactor(y + 1, x) = 0
+length(x) is the length of the sequence of numbers associated with x.
+
+8. x ◦ y = argmin z ≤ nthPrime(length(x) + length(y))x+y .
+(∀n ≤ length(x) . item(n, z) = item(n, x)) ∧
+(∀0 < n ≤ length(y) . item(n + length(x), z) = item(n, y))
+x ◦ y corresponds to the operation of “concatenating” two finite sequences of numbers.
+9. seq(x) = 2x
+seq(x) corresponds to the number sequence that consists only of the number x (for
+x > 0).
+10. paren(x) = seq(11) ◦ x ◦ seq(13)
+paren(x) corresponds to the operation of “parenthesizing” (11 and 13 are associated
+with the primitive signs “(” and “)”).
+
+
+
+
+11. vtype(n, x) ⇔ ∃13 < z ≤ x . isPrime(z) ∧ x = z n ∧ n 6= 0
+x is a variable of type n.
+12. isVar(x) ⇔ ∃n ≤ x . vtype(n, x)
+x is a variable.
+13. not(x) = seq(5) ◦ paren(x)
+not(x) is the negation of x.
+
+[183]
+
+14. or(x, y) = paren(x) ◦ seq(7) ◦ paren(y)
+or(x, y) is the disjunction of x and y.
+15. forall(x, y) = seq(9) ◦ seq(x) ◦ paren(y)
+forall(x, y) is the generalization of y by the variable x (provided that x is a
+variable).
+16. succ n(0, x) = x
+succ n(n + 1, x) = seq(3) ◦ succ n(n, x)
+succ n(n, x) corresponds to the operation of “prepending the sign ‘succ’ in front of x
+for n times”.
+17. number(n) = succ(n, seq(1))
+number(n) is the number-sign for the number n.
+18. stype1 (x) ⇔ ∃m, n ≤ x .
+(m = 1 ∨ vtype(1, m)) ∧ x = succ n(n, seq(m))
+x is a sign of type one.
+10
+
+19. stype(n, x) ⇔
+
+
+
+
+
+n = 1 ∧ stype1 (x) ∨
+
+
+
+
+
+n > 1 ∧ ∃v ≤ x . (vtype(n, v) ∧ x = R(v))
+x is a sign of type n.
+20. elFm(x) ⇔ ∃y, z, n ≤ x .
+(stype(n, y) ∧ stype(n + 1, z) ∧ x = z ◦ paren(y))
+x is an elementary formula.
+
+21. op(x, y, z) ⇔ (x = not(y)) ∨ (x = or(y, z)) ∨ (∃v ≤ x . isVar(v) ∧ x = forall(v, y))
+
+
+22. fmSeq(x) ⇔ ∀0 < n ≤ length(x) . elFm(item(n, x)) ∨
+
+∃0 < p, q < n . op(item(n, x), item(p, x), item(q, x))
+∧ length(x) > 0
+x is a sequence of formulae, each of which is either an elementary formula or is
+obtained from the preceding ones by the operations of negation, disjunction,
+or generalization.
+x·(length(x))2
+
+
+
+23. isFm(x) ⇔ ∃n ≤ nthPrime(length(x)2 )
+.
+fmSeq(n) ∧ x = item(length(n), n)
+x is a formula (i.e. the last item of a sequence n of formulae).
+24. bound(v, n, x) ⇔ isVar(v) ∧ isFm(x) ∧
+∃a, b, c ≤ x . x = a ◦ forall(v, b) ◦ c ∧ isFm(b) ∧
+length(a) + 1 ≤ n ≤ length(a) + length(forall(v, b))
+The variable v is bound in x at position n.
+25. free(v, n, x) ⇔ isVar(v) ∧ isFm(x) ∧
+v = item(n, x) ∧ n ≤ length(x) ∧ ¬bound(v, n, x)
+The variable v is free in x at position n.
+26. free(v, x) ⇔ ∃n ≤ length(x) . free(v, n, x)
+v occurs in x as a free variable.
+27. insert(x, n, y) = argmin z ≤ (nthPrime(length(x) + length(y)))x+y .
+∃u, v ≤ x .
+x = u ◦ seq(item(n, x)) ◦ v ∧ z = u ◦ y ◦ v ∧ n = length(u) + 1
+You obtain insert(x, n, y) from x by inserting y instead of the nth item in the sequence
+x (provided that 0 < n ≤ length(x)).
+28. freePlace(0, v, x) = argmin n ≤ length(x) .
+free(v, n, x) ∧ ¬∃n < p ≤ length(x) . free(v, p, x)
+freePlace(k + 1, v, x) = argmin n < freePlace(n, k, v) .
+free(v, n, x) ∧ ¬∃n < p < freePlace(n, k, v) . free(v, p, x)
+freePlace(k, v, x) is the k + 1st place in x (counted from the end of formula x) where
+v is free (and 0 if there is no such place).
+11
+
+[184]
+
+29. nFreePlaces(v, x) = argmin n ≤ length(x) . freePlace(n, v, x) = 0
+nFreePlaces(v, x) is the number of places where v is free in x.
+30. subst0 (0, x, v, y) = x
+subst0 (k + 1, x, v, y) = insert(subst0 (k, x, v, y), freePlace(k, v, x), y)
+31. subst(x, v, y) = subst0 (nFreePlaces(v, x), x, v, y)
+ 
+subst(x, v, y) is the above defined concept substa vb .
+32. imp(x, y) = or(not(x), y)
+and(x, y) = not(or(not(x), not(y)))
+equiv(x, y) = and(imp(x, y), imp(y, x))
+exists(v, y) = not(forall(v, not(y)))
+n
+
+33. typeLift(n, x) = argmin y ≤ xx .
+∀k ≤ length(x) .
+item(k, x) ≤ 13 ∧ item(k, y) = item(k, x) ∨
+item(k, x) > 13 ∧ item(k, y) = item(k, x) · prFactor(1, item(k, x))n
+typeLift(n, x) is the nth type-lift of x (if x and typeLift(n, x) are formulae).
+There are three specific numbers corresponding to the axioms I, 1 to 3 (the Peano axioms), which we will denote by pa1 , pa2 , pa3 , and we define:
+
+34. peanoAxiom(x) ⇔ (x = pa1 ∨ x = pa2 ∨ x = pa3 )
+35. prop1Axiom(x) ⇔ ∃y ≤ x . isFm(y) ∧ x = imp(or(y, y), y)
+x is a formula that has been obtained by inserting into the axiom schema II, 1. We
+define prop2Axiom(x), prop3Axiom(x), and prop4Axiom(x) analogously.
+36. propAxiom(x) ⇔ prop1Axiom(x)∨prop2Axiom(x)∨prop3Axiom(x)∨prop4Axiom(x)
+x is a formula that has been obtained by inserting into on of the proposition axioms.
+37. quantor1AxiomCondition(z, y, v) ⇔ ¬∃n ≤ length(y), m ≤ length(z), w ≤ z .
+w = item(m, z) ∧ bound(w, n, y) ∧ free(v, n, y)
+z does not contain a variable that is bound anywhere in y where v is free. This
+condition for the applicability of axiom III, 1, ensured that a substitution of z for the
+free occurrences of v in y does not accidentally bind some of z’s variables.
+
+38. quantor1Axiom(x) ⇔ ∃v, y, z, n ≤ x .
+vtype(n, v) ∧ stype(n, z) ∧ isFm(y) ∧ quantor1AxiomCondition(z, y, v)∧
+x = imp(forall(v, y), subst(y, v, z))
+x is a formula obtained by substitution from the axiom schema III, 1, i.e. one of the
+quantor axioms.
+39. quantor2Axiom(x) ⇔ ∃v, q, p ≤ x .
+isVar(v) ∧ isFm(p) ∧ ¬free(v, p) ∧ isFm(q) ∧
+12
+
+[185]
+
+x = imp(forall(v, or(p, q)), or(p, forall(v, q)))
+x is a formula obtained by substitution from the axiom schema III, 2, i.e. the other
+one of the quantor axioms.
+40. reduAxiom(x) ⇔ ∃u, v, y, n ≤ x .
+vtype(n, v) ∧ vtype(n + 1, u) ∧ ¬free(u, y) ∧ isFm(y) ∧
+x = exists(u, forall(v, equiv(seq(u) ◦ paren(seq(v)), y)))
+x is a formula obtained by substitution from the axiom schema IV, 1, i.e. from the
+reducibility axiom.
+There is a specific number corresponding to axiom V, 1, (the set axiom), which we
+will denote by sa, and we define:
+41. setAxiom(x) ⇔ ∃n ≤ x . x = typeLift(n, sa)
+42. isAxiom(x) ⇔ peanoAxiom(x) ∨ propAxiom(x) ∨
+quantor1Axiom(x) ∨ quantor2Axiom(x) ∨ reduAxiom(x) ∨
+setAxiom(x)
+x is an axiom.
+43. immConseq(x, y, z) ⇔ y = imp(z, x) ∨ ∃v ≤ x . isVar(v) ∧ x = forall(v, y)
+x is an immediate consequence of y and z.
+
+
+44. isProofFigure(x) ⇔ ∀0 < n ≤ length(x) .
+isAxiom(item(n, x)) ∨ ∃0 < p, q < n .
+
+immConseq(item(n, x), item(p, x), item(q, x)) ∧
+length(x) > 0
+x is a proof figure (a finite sequence of formulae, each of which is either an
+axiom or the immediate consequence of two of the preceding ones).
+45. proofFor(x, y) ⇔ isProofFigure(x) ∧ item(length(x), x) = y
+x is a proof for the formula y.
+46. provable(x) ⇔ ∃y . proofFor(y, x)
+x is a provable formula. (provable(x) is the only one among the concepts 1-46 for
+which we can not assert that it is primitive recursive).
+
+2.5
+
+Denotability and provability
+
+The fact that can be expressed vaguely by: Every primitive recursive relation is definable within system P (interpreting that system as to content), will be expressed in the
+following theorem without referring to the interpretation of formulae of P:
+Theorem V: For every primitive recursive relation R(x1 , . . . , xn ) there is a relation
+sign r (with the free variables u1 , . . . , un ), such that for each n-tuple (x1 , . . . , xn )
+the following holds:
+13
+
+[186]
+
+R(x1 , . . . , xn ) ⇒ provable(subst(r, u1 . . . un , number(x1 ) . . . number(xn )))
+¬R(x1 , . . . , xn ) ⇒ provable(not(subst(r, u1 . . . un , number(x1 ) . . . number(xn ))))
+
+(3)
+(4)
+
+We contend ourselves with giving a sketchy outline of the proof for this theorem here,
+since it does not offer any difficulties in principle and is rather cumbersome. We prove
+the theorem for all relations R(x1 , . . . , xn ) of the form x1 = φ(x2 , . . . , xn ) (where φ is a
+primitive recursive function) and apply natural induction by φ’s degree. For functions
+of degree one (i.e. constants and the function x + 1) the theorem is trivial. Hence, let φ
+be of degree m. It is built from functions of lower degree φ1 , . . . , φk by the operations of
+insertion and primitive recursive definition. Since everything has already been proven
+for φ1 , . . . , φk by the inductive assumption, there are corresponding relation signs
+r1 , . . . , rk such that (3), (4) hold. The definition processes by which φ is built from
+φ1 , . . . , φk (insertion and primitive recursion) can all be modeled formally in system P.
+Doing this, one gets from r1 , . . . , rk a new relation sign r for which one can proof the
+[187]
+validity of (3), (4) without difficulties. A relation sign r associated with a primitive
+recursive relation in this manner shall be called primitive recursive.
+
+2.6
+
+Undecidability theorem
+
+We now come to the goal of our elaborations. Let κ be any class of formulae. We
+denote with Conseq(κ) the smallest set of formulae that contains all formulae of
+κ and all axioms and is closed under the relation “immediate consequence”. κ is
+called ω-consistent if there is no class-sign a such that
+
+
+
+
+∀n . subst(a, v, number(n)) ∈ Conseq(κ) ∧ not(forall(v, a)) ∈ Conseq(κ)
+
+where v is the free variable of the class-sign a. With other words, a witness
+against ω-consistency would be a formula a with one free variable where we can derive a(n)
+for all n, but also ¬∀n . a(n), a contradiction.
+
+Every ω-consistent system is, of course, also consistent. The reverse, however, does
+not hold true, as will be shown later. We call a system consistent if there is no formula
+a such that both a and ¬a are provable. Such a formula would be a witness against the
+consistency, but in general not against the ω-consistency. With other words, ω-consistency is
+stronger than consistency: the first implies the latter, but not vice versa.
+
+The general result about the existence of undecidable propositions goes as follows:
+Theorem VI: For every ω-consistent primitive recursive class κ of formulae there
+is a primitive recursive class-sign r such that neither forall(v, r) nor not(forall(v, r))
+belongs to Conseq(κ) (where v is the free variable of r).
+
+14
+
+Since the premise in the theorem is ω-consistency, which is stronger than consistency, the
+theorem is less general than if its premise were just consistency.
+
+Proof: Let κ be any ω-consistent primitive recursive class of formulae. We define:
+isProofFigure
+κ (x) ⇔
+
+∀n ≤ length(x) . isAxiom(item(n, x)) ∨ (item(n, x) ∈ κ) ∨
+
+
+
+∃0 < p, q < n . immedConseq(item(n, x), item(p, x), item(q, x)) ∧
+length(x) > 0
+
+(5)
+
+(compare to the analogous concept 44)
+proofForκ (x, y) ⇔ isProofFigureκ (x) ∧ item(length(x), x) = y
+provableκ (x) ⇔ ∃y . proofForκ (y, x)
+
+(6)
+(6.1)
+
+(compare to the analogous concepts 45, 46).
+The following obviously holds:
+
+
+
+
+∀x . provableκ (x) ⇔ x ∈ Conseq(κ) ,
+
+
+(7)
+
+
+
+∀x . provable(x) ⇒ provableκ (x) .
+
+(8)
+
+Now we define the relation:
+
+[188]
+
+
+
+
+
+Q(x, y) ⇔ ¬ proofForκ (x, subst(y, 19, number(y))) .
+
+(8.1)
+
+Intuitively Q(x, y) means x does not prove y(y).
+
+Since proofForκ (x, y) (by (6), (5)) and subst(y, 19, number(y)) (by definitions 17,
+31) are primitive recursive, so is Q(x, y). According to theorem V we hence have a
+relation sign q (with the free variables 17, 19) such that the following holds:
+¬proofForκ (x, subst(y, 19, number(y))) ⇒
+provableκ (subst(q, 17 19, number(x) number(y)))
+
+(9)
+
+proofForκ (x, subst(y, 19, number(y))) ⇒
+provableκ (not(subst(q, 17 19, number(x) number(y)))).
+
+(10)
+
+p = forall(17, q)
+
+(11)
+
+We set:
+
+(p is a class-sign with the free variable 19 (which intuitively means 19(19), i.e.
+y(y), is improvable)) and
+r = subst(q, 19, number(p))
+15
+
+(12)
+
+(r is a primitive recursive class-sign with the free variable 17 (which intuitively
+means that 17, i.e. x, does not prove p(p), where p(p) means p(p) is unprovable)).
+Then the following holds:
+subst(p, 19, number(p)) = subst(forall(17, q), 19, number(p))
+= forall(17, subst(q, 19, number(p)))
+= forall(17, r)
+
+(13)
+
+(because of (11 and 12)); furthermore:
+subst(q, 17 19, number(x) number(p)) = subst(r, 17, number(x))
+
+(14)
+
+(because of (14)). The recurring forall(17, r) can be interpreted as there is no prove
+for p(p), with other words, forall(17, r) states that the statement p(p) that states its own
+improvability is improvable. If we now insert p for y in (9) and (10), we get, taking (13)
+
+and (14) into account:
+¬proofForκ (x, forall(17, r)) ⇒ provableκ (subst(r, 17, number(x)))
+
+(15)
+
+proofForκ (x, forall(17, r)) ⇒ provableκ (not(subst(r, 17, number(x))))
+
+(16)
+[189]
+
+This yields:
+1. forall(17, r) is not κ-provable. Because if that were the case, there would (by
+(7)) exist an n such that proofForκ (n, forall(17, r)). By (16) we would hence have:
+provableκ (not(subst(r, 17, number(n)))),
+while on the other hand the κ-provability of forall(17, r) also implies that of
+subst(r, 17, number(n)). Therefore κ would be inconsistent (and in particular ωinconsistent).
+2. not(forall(17, r)) is not κ-provable. Proof: As has just been shown, forall(17, r)
+is not κ-provable, i.e. (by (7)) we have
+∀n . ¬proofForκ (n, forall(17, r)).
+This implies by (15)
+∀n . provableκ (subst(r, 17, number(n)))
+which would, together with
+provableκ (not(forall(17, r))),
+contradict the ω-consistency of κ.
+Therefore forall(17, r) is not decidable from κ, whereby theorem VI is proved.
+16
+
+2.7
+
+Discussion
+
+One can easily convince oneself that the proof we just did is constructive, i.e. it the
+following is intuitionistically flawlessly proven:
+Let any primitive recursively defined class κ of formulae be given. Then if the formal
+decision (from κ) of the proposition-formula forall(17, r) is also given, one can
+effectively present:
+1. A proof for not(forall(17, r)).
+2. For any given n a proof for subst(r, 17, number(n)), i.e. a formal decision for
+forall(17, r) would imply the effective presentability of an ω-inconsistency-proof.
+Let us call a relation (class) between natural numbers R(x1 , . . . , xn ) decision-definite
+if there is an n-ary relation sign r such that (3) and (4) (c.f. theorem V) hold. In
+particular therefore every primitive recursive relation is by Theorem V decision-definite.
+Analogously, a relation sign shall be called decision-definite if it corresponds to a
+decision-definite relation in this manner. For the existence of propositions undecidable
+from κ it is now sufficient to require of a class κ that it is ω-consistent and decisiondefinite. With other words, it is not even important how the class of added axioms κ is
+defined, we just have to be able to decide with the means of the system whether something
+is an axiom or not. This is because the decision-definiteness carries over from κ to
+
+poofForκ (x, y) (compare to (5), (6)) and to Q(x, y) (compare to (9)), and only that
+[190]
+was used for the above proof. In this case, the undecidable theorem takes on the form
+forall(v, r), where r is a decision-definite class-sign (by the way, it is even sufficient
+that κ is decision-definite in the system augmented by κ).
+If instead of ω-consistency we only assume consistency for κ, then, although the
+existence of an undecidable proposition does not follow, there follows the existence of a
+property (r) for which a counter-example is not presentable and neither is it provable
+that the relation holds for all numbers. Because for the proof that forall(17, r) is
+not ω-provable we only used the ω-consistency of κ (compare to page 189), and
+¬provableκ (forall(17, r)) implies by (15) for each number x that subst(r, 17, number(x))
+holds, i.e. that for no number not(subst(r, 17, number(x))) is provable.
+If you add not(forall(17, r)) to κ you get a consistent but not ω-consistent class of
+formulae κ0 . κ0 is consistent because otherwise forall(17, r) would be provable. But
+κ0 is not ω-consistent, since because of ¬provableκ (forall(17, r)) and (15) we have
+∀x . provableκ (subst(r, 17, number(x))),
+and hence in particular
+∀x . provableκ0 (subst(r, 17, number(x))),
+and on the other hand of course
+17
+
+provableκ0 (¬forall(17, r)).
+But that means that forall(17, r) precisely fits the definition of a witness against ωconsistency.
+
+A special case of theorem VI is the theorem where the class κ consists of a finite
+number of formulae (and perhaps the ones derived from these by type-lift). Every
+finite class κ is of course primitive recursive. Let a be the largest contained number.
+Then we have for κ in this case
+x ∈ κ ⇔ ∃m ≤ x, n ≤ a . n ∈ κ ∧ x = typeLift(m, n)
+Hence, κ is primitive recursive. This allows us to conclude for example that also with
+the help of the axiom of choice (for all types) or the generalized continuum hypothesis
+not all propositions are decidable, assuming that these hypotheses are ω-consistent.
+During the proof of theorem VI we did not use any other properties of the system
+P than the following:
+1. The class of axioms and deduction rules (i.e. the relation “immediate consequence”) are primitive recursively definable (as soon as you replace the basic
+signs by numbers in some way).
+2. Every primitive recursive relation is definable within the system P (in the sense
+of theorem V).
+Hence there are undecidable propositions of the form ∀x . F (x) in every formal
+system that fulfills the preconditions 1, 2 and is ω-consistent, and also in every extension
+of such a system by a primitive recursively definable, ω-consistent class of axioms. To
+[191]
+this kind of systems belong, as one can easily confirm, the Zermelo-Fraenkelian axiomsystem and the von Neumannian system of set-theory, furthermore the axiom-system
+of number-theory which consists of the Peano axioms, primitive recursive definition (by
+schema (2)) and the logical deduction rules. Simply every system whose deduction rules
+are the usual ones and whose axioms (analogously like in P) are made by insertion into
+a finite number of schemas fulfills precondition 1.
+
+3
+
+Generalizations
+
+—omitted—
+
+4
+
+[196]
+
+Implications for the nature of consistency
+
+—omitted—
+18
+
+A
+
+Experiences
+
+This translation was done for a reason. I took Mike Eisenberg’s class “Computer
+Science: The Canon” at the University of Colorado in fall 2000. It was announced as
+a “great works” lecture-and-discussion course, offering an opportunity to be pointed
+to some great papers, giving an incentive to read them, and providing a forum for
+discussion. This also explains my motivation for translating Gödel’s proof: it is a truly
+impressive and fascinating paper, there is some incentive in completing my final paper
+for a class, and this exercise should and did benefit me intellectually. Here, I will try
+to share the experiences I made doing the translation. I deliberately chose a personal,
+informal style for this final section to stress that what I write here are just my opinions,
+nothing less and nothing more.
+
+A.1
+
+Have I learned or gained something?
+
+First of all, how useful is it to read this paper anyway, whether you translate it or not?
+One first answer that comes to mind is that the effort of understanding it hones abstract
+thinking skills, and that some basic concepts like Peano axioms, primitive recursion,
+or consistency are nicely illustrated and shown in a motivated context. The difficulty
+with this argument is that it is self-referential: we read this paper to hone skills that
+we would not need to hone if we would not read this kind of papers. I don’t really have
+a problem with that, people do many things for their own sake, but fortunately there
+are other gains to be had from reading this paper. One thing that I found striking is
+how I only fully appreciated the thoughts from section 2.7 on re-reading the proof. I
+find it fascinating just how general the result is: your formal system does not need to
+be finite, or even primitive recursively describable, no, it suffices that you can decide
+its set of axioms in itself. I am not sure whether other people are as fascinated by this
+as I am; if you are not, try to see what I mean, it’s worth the effort! But in any case, I
+have gained an appreciation for the beauty and power of the results, which I am happy
+for. Finally, there is some hope that the writing skills, proof techniques, and thought
+processes exhibited by this paper might rub off, so to speak. Part of learning an art is
+to study the masters, and Gödel was clearly a master in his art!
+Second, how useful was the translation itself? Well, it was useful to try out some
+ideas I had about how translating a technical paper between languages might work. My
+recipe was to first read and understand the whole paper, then translate it one sentence
+at a time (avoid to start translating a sentence before having a plan for all of it!), and
+finally to read it fast to check the flow and logic. This might or might not be the
+best way, but it worked well enough for me. For understanding the paper itself, the
+translation between languages or the use of hyper-text as a medium did not help me
+much as I was doing it. More important was the translation of notation to one I am
+more used to, and the occasional comment to express my view of a tricky detail. Last
+but not least, it seems hardly necessary to admit my strong affection for type-setting,
+and there is a certain pleasure in looking over and polishing something you crafted that
+19
+
+I believe I share with many people.
+
+A.2
+
+Has the paper improved?
+
+The original paper is brilliant, well-written, rich of content, relevant. Yet I went ahead
+and tinkered around, changing a little thing here and there, taking much more freedom
+than the translators for [2, 1]. Yes, the paper did improve! It is closer to my very
+personal ideas of what it should ideally look like. To me who did the changes just a
+few days ago the modified paper looks better than the original.
+In section 0, I announced a translation along three dimensions, namely language
+(from German to English), notation (using symbols I am more used to) and medium
+(exploiting hyper-text). Let us review each one in turn and criticize the changes.
+Language. After finishing the translation, I compared it with the ones in [2, 1], and
+found that although they are different, the wording probably does not matter all
+that much. To give an example where it did seem to play a role, here are three
+wordings for besteht eine nahe Verwandtschaft: (i) is closely related, (ii) is also
+a close relationship, (iii) is also a close kinship. The third one is mine, and my
+motivation for it is that it is the most punchy one, for what it’s worth. The
+stumbling blocks in this kind of translation, as I see it, are rather the technical
+terms that may be in no dictionary. For example, I could well imagine that
+my translation decision-definite seems unnatural to someone studying logic who
+might be used to another term.
+Notation. This is the part of the translation that I believe helps the most in making
+the paper more accessible for readers with a similar educational background as
+mine. For example, I have never seen “Π” used for “∀”, and inside an English
+text I find “bound(v, n, x)” easier to parse than “v Geb n, x”.
+Hyper-text. During the translation, it became clearer to me just how very “hypertext” the paper already was! On the one hand, the fact that one naturally refers
+back to definitions and theorems underlines that hyper-text is a natural way of
+presentation. On the other hand, the fact that one gets along quite well with a
+linear text, relying on the readers to construct the thought-building in their own
+head, seems to suggest that the change of medium was in fact rather superficial.
+I would be interested in the opinions of readers of this document on this: did the
+hyper-text improve the paper?
+Clearly, the most important aspects of the paper are still the organization, writing,
+and explanation skills of Gödel himself. And clearly, the paper is still an intellectual
+challenge, yielding its rewards only to the fearless. To assume that my work has changed
+either of these facts significantly would be presumptuous.
+
+20
+
+A.3
+
+Opinions
+
+This discussion is a trade-off between being careful and thoughtful on the one hand,
+and being forthcoming and fruitful on the other. As it leans more to the second half
+of the spectrum, I might as well go ahead and state some opinions the project and the
+reflections upon it have inspired in me.
+• A well-written technical paper already has the positive features of hyper-text.
+This may not seem so at first glance, but compare it to the typical web-page
+and then ask yourself which has more coherence. To me, coherence is part of the
+essence and beauty of cross-referencing.
+• There is an analogy between writing papers and computer programs, and it is
+amazing how far you can stretch it without it breaks down. The skill of gradually
+building up your vocabulary, dividing and conquering the task in a clean and
+skillful way, and commenting on what you do are all illustrated nicely by Gödel’s
+proof.
+• Reading and understanding Gödel’s proof yields many benefits. There are pearls
+to be found in its contents, and skills to be practiced that go beyond what one
+might think at first glance.
+I am well aware that I did not give many arguments to support these opinions.
+That would be the stuff for a paper by itself, and the reader is encouraged to think
+about them. But above all, enjoy the paper “On formally undecidable propositions of
+Principia Mathematica and related systems I” itself, which after all makes up the main
+part of this document!
+
+Literatur
+[1] Kurt Gödel. On Formally Undecidable Propositions of Principia Mathematica and
+Related Systems. Dover, 1962.
+[2] Kurt Gödel. Über formal unentscheidbare Sätze der Principia Mathematica und
+verwandter Systeme I. In Solomon Feferman, editor, Kurt Gödel: Collected Works,
+volume 1, pages 144–195. Oxford University Press, 1986. German text, parallel
+English translation.
+
+21
+
+B
+
+Index
+
+α, 8
+β, 8
+γ, 8
+ω-consistent, 14
+n-ary relation sign, 4
+argmin, 7
+subst, 4
+proof figure, 13
+
+quantor axioms, 5
+
+axiom, 5
+
+variable of type one, 4
+variable of type n, 4
+variable of type two, 4
+
+reducibility axiom, 5
+set axiom, 6
+sign of type n, 4
+sign of type one, 4
+type-lift, 5
+
+basic sign, 4
+class-sign, 3
+comprehension axiom, 5
+consistent, 14
+decision-definite, 17
+degree, 7
+disjunction, 4
+elementary formula, 4
+formula, 4
+generalization, 4
+immediate consequence, 6
+negation, 4
+number-sign, 4
+P, 4
+Peano axioms, 5
+primitive recursion, 7
+primitive recursive, 7
+PM, 2
+proof, 2
+proposition-formula, 4
+proposition axioms, 5
+provable, 6
+22
+
+

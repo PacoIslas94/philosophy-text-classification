@@ -1,0 +1,1097 @@
+The Principle of Sufficient Reason in Spinoza
+
+Oxford Handbooks Online
+The Principle of Sufficient Reason in Spinoza
+Martin Lin
+The Oxford Handbook of Spinoza
+Edited by Michael Della Rocca
+Print Publication Date: Oct 2017
+Subject: Philosophy, History of Western Philosophy (Post-Classical), Metaphysics
+Online Publication Date: Dec 2013 DOI: 10.1093/oxfordhb/9780195335828.013.011
+
+Abstract and Keywords
+This chapter investigates Spinoza’s commitment to the Principle of Sufficient Reason (the
+PSR) and its role in his system. What sorts of things does Spinoza think require a cause or
+explanation? What counts, for him, as a cause or explanation? The PSR is often associated
+with doctrines such as necessitarianism, the Principle of the Identity of Indiscernibles,
+the Principle of Plenitude, and the existence of God. Some commentators have alleged
+that Spinoza’s commitment to the PSR leads him to accept all of these doctrines. This
+paper examines each of these doctrines as they pertain to Spinoza’s commitment to the
+PSR and his metaphysics more generally.
+Keywords: Sufficient Reason, necessitarianism, Identity of Indiscernibles, metaphysics, cause, explanation
+
+Spinoza is a metaphysical rationalist. He believes that everything has an explanation.1 No
+aspect of the world is fundamentally unintelligible or incomprehensible. There is nothing
+brute. These claims each express what is often called the Principle of Sufficient Reason
+(the PSR hereafter). This does not mean that Spinoza thinks that human beings do or
+even could possess an explanation of everything. He allows that our cognitive capacities
+are limited. Thus there are certain things that we can never know or understand. His
+conviction is, rather, that a perfect intellect could (indeed, does) possess such
+explanations. This conviction is central to Spinoza’s philosophy and can be seen as one of
+the fixed points around which his system revolves.
+The PSR has been formulated in different ways by different philosophers: everything has
+an explanation, everything has a cause or reason, there are no brute facts, and so forth.
+Each of these statements of the PSR harbors ambiguity. For example, the statement of
+anything that might be justly called a version of the PSR must be universally quantified—
+that is, it must be a claim about everything. After all, only a very committed antirationalist would deny that something has an explanation. But what is in the domain of
+the quantifier “everything?” Most—and some would say all—uses of the universal
+Page 1 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+quantifier are restricted, at least implicitly. Is Spinoza’s understanding of the PSR
+restricted in some way, and if so, to what? Is it restricted to facts, events, substances,
+contingent truths, necessary truths—all of these and more?
+There is also a question as to what counts as an explanation. Although it is widely agreed
+that explanation is one of the principal aims of inquiry, there is little agreement (p. 134) as
+to how to analyze explanation. Is something explained when we have an account that
+specifies its causes, unifies it with diverse phenomena, subsumes it under law, or
+something else? The words that Spinoza most frequently uses to express something like
+the concept of explanation are “ratio” and “causa.” To fully understand Spinoza’s
+metaphysical rationalism, we need to know how Spinoza understands those terms.
+I would also like to investigate the role of the PSR in Spinoza’s system. The PSR is often
+thought to entail a number of other significant doctrines. For example, it is often thought
+to entail necessitarianism, the Principle of the Identity of Indiscernibles, the necessary
+existence of God, and the Principle of Plenitude. Spinoza commits himself to each of these
+doctrines but, in some cases, the arguments that he gives for them do not clearly cite the
+PSR. Does Spinoza himself see them as connected to metaphysical rationalism? If so,
+how?
+
+1. The PSR and the Axioms of the Ethics
+The only explicit statement of the PSR in Spinoza’s Ethics occurs in his argument for the
+necessary existence of God, given in E1p11d2, where he announces that there must be a
+cause or reason for the existence or nonexistence of a thing. If the PSR is one of
+Spinoza’s core philosophical commitments, why is it stated only so late in the Ethics? Why
+is it absent from the axioms, which presumably describe the fundamental metaphysical
+principles as Spinoza understands them? And why does Spinoza only explicitly state it in
+arguing for the necessary existence of God? Seen from this perspective, one might
+conclude that, although Spinoza believes the PSR and used it in his arguments for the
+necessary existence of God, he did not think that any other philosophically interesting
+propositions could be established by appealing to it. What is more, it might appear that
+the version of the PSR that Spinoza believes is a very restricted one. He says only that the
+existence or the nonexistence of a thing requires a cause or reason. Does this mean that
+he thinks that only existential claims require explanations? All in all, Spinoza may appear,
+at first glance, to subscribe to only a very moderate version of metaphysical rationalism.
+The answer to why the PSR is absent from the axioms is that it is, in fact, not absent from
+them. Despite appearances, nearly all of the axioms of Part I of the Ethics either express
+or serve to clarify Spinoza’s metaphysical rationalism. Thus nearly every aspect of his
+philosophy that depends upon the axioms ipso facto depends upon the PSR. This is an
+important point because some of Spinoza’s axioms can seem poorly motivated and even
+arbitrary. Seen in that light, it is natural to ask, what possible interest could the
+systematic working out of the consequences of such a bizarre and counterintuitive set of
+axioms hold? But they are not ill-motivated. Rather they directly reflect his metaphysical
+Page 2 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+rationalism. If they appear ill motivated, it is only because they are couched in Spinoza’s
+somewhat idiosyncratic technical vocabulary, which may obscure their true significance.
+This being so, we must first discuss some of the key concepts of Spinoza’s (p. 135)
+philosophy: causation, conception, and inherence. These are some of the primitive notions
+in terms of which the definitions of Part I of the Ethics are stated and, consequently, they
+themselves are never explicitly defined. Nevertheless, we can perhaps recover something
+like implicit definitions of them from his uses of them.
+Conception and inherence together define the relationship that a substance bears to its
+modes. Causation is another important undefined notion in Spinoza’s ethics and, as we
+shall see, it is importantly related to both conception and inherence. Let us begin by
+considering inherence. According to Spinoza, substances are things that are “in
+themselves” whereas modes are “in substances.”2 What does Spinoza mean by “in itself”
+and “in a substance?” To begin with, the relation “x is in y” is not one of spatial
+containment. For example, modes of thought are in thinking substance but they do not
+have a location in space.3 Rather, when Spinoza says that one thing is in another, he
+means that one thing inheres in another. Inherence, according to an influential tradition
+that originates with Aristotle, is the relation that a predicate or property bears to its
+subject.4 It is thus reasonable to assume that Spinoza means that modes inhere in
+substance in something like the way that a predicate or property inheres in a subject.
+This is confirmed by the fact that he says that modes are affections of substance, which
+suggests that they are something like the ways that a substance is.5 Additionally, “modus”
+is Latin for way. Modes are the ways that substance is. This further suggests an adjectival
+relation between modes and substance.
+Spinoza further claims that substances are conceived through themselves and that modes
+are conceived through substances.6 Spinoza’s claim is controversial if modes are
+properties or qualities of substances. Some might find it more natural to think that
+substances are conceived through the properties or qualities that describe them than to
+think that properties are conceived through the objects that they describe. For example,
+some might find it natural to think that we conceive of Socrates through the attributes
+that characterize him: he is short, ugly, wise, and the teacher of Plato.
+Spinoza’s reasons for claiming that modes are conceived through the substances in which
+they inhere are perhaps easier to appreciate when we understand the way in which
+modes can differ from what we would typically call a property. The notion of a mode is
+ambiguous in Spinoza. He sometimes speaks of modes as particular or singular things
+and sometimes as affections of a substance. Things and affections belong, one might
+suppose, to distinct ontological categories. If this is so, then no thing is an affection and
+vice versa. The appearance of ambiguity is heightened by the fact that Spinoza often
+defines “mode” as God insofar as he is affected by some mode. Such definitions would be
+puzzling, to say the least, if “mode” were not ambiguous. Compare this definition to “a
+property is a substance insofar as it is affected by some property.” It is hard to make
+
+Page 3 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+sense of such statements without construing the reoccurring word as expressing
+different meanings with each occurrence.
+(p. 136)
+
+I propose that we disambiguate the notion of a mode as follows. Modes understood as
+particular things are substance insofar as it is affected in some way. Modes understood as
+properties are the ways in which substance is affected. That is, “mode” has two senses:
+(1) God insofar as he is affected in some way and (2) a way in which God is affected.7 It is
+clear that these two are distinct. Consider a red rose. There is the rose itself insofar as it
+is red and then there is the redness of the rose. The rose insofar as it is red clearly cannot
+be identified with redness. The redness is exemplified by a particular but the rose insofar
+as it is red is not. The rose insofar as it is red is colored, but the redness is not. Singular
+things are God insofar as he is affected in some way. Thus Peter is God insofar as God
+Peter-izes, and Paul is God insofar as he Paul-izes. This notion of a mode is familiar. A
+dent is, for example, a tin can insofar as its surface is dented. A wrinkle is the carpet
+insofar as it is warped. A fist is a hand insofar as it is closed. Modes of God, on this
+understanding of the term, stand to God as dents, wrinkles, and fists stand to cans,
+carpets, and hands respectively. Thus there is nothing exotic about Spinoza’s conception
+of modes. What is innovative is Spinoza’s claim that all ordinary objects are modes of a
+single substance.
+On this conception of a mode as a substance insofar as it is affected in some way, it is
+easier to understand why Spinoza thinks that modes must be conceived through the
+substance. Just as a smile, for example, must be conceived through the cat in which it
+inheres or a fist must be conceived through the hand in which it inheres, so too must all
+modes be conceived through the substance in which they inhere.
+With respect to causation, Spinoza claims that substances are self-caused and that modes
+are caused by substances. This has several implications for the relationship between
+causation, conception, and inherence. First of all, Spinoza believes that causation and
+conception are coextensive.8 That is, for all x and all y, x is caused by y just in case x is
+conceived through y. What is it for one thing to be conceived through another? Spinoza is
+not as forthcoming on this topic as we might wish, but it is clear that he believes that for
+all x and all y, x is conceived through y just in case the concept of x involves the concept of
+y.9 Of course this raises the question of what it is for one concept to “involve” another.
+Spinoza never spells out an answer to this question either, but it appears that if one
+concept involves another then it is impossible to possess the first (p. 137) concept without
+also possessing the second. Spinoza also thinks that if the concept of x involves the
+concept of y then x is understood through y.10 Since, by E1a4, the concept of an effect
+involves the concept of its cause, effects are understood through their causes.
+Second, Spinoza believes that inherence entails causation so that, for all x and all y, if x
+inheres in y, then y causes x.11 That is, a substance is the cause of all of its affections or
+modes. By the equivalence of causation and conception, the modes of a substance must
+be understood through the substance in which they inhere and which is their cause.
+
+Page 4 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+Now that we have some understanding of Spinoza’s basic vocabulary, let us turn to the
+axioms of Part I. E1a1 states, “Whatever is, is in itself or in another.” Because inherence
+entails causation, this entails that whatever is, is either self-caused or caused by another.
+This also means that whatever is, is understood through itself or understood through
+another. What this rules out is that there is something that is not understood or
+understandable. This clearly expresses a deep commitment to metaphysical rationalism
+and the intelligibility of everything. E1a1 thus states the PSR.
+E1a2 states, “Whatever cannot be conceived though another, must be conceived through
+itself.” This means that nothing is inconceivable, or, given Spinoza’s understanding of
+conception, there is nothing that cannot be understood. By the equivalence of causation
+and conception, this also entails that everything has a cause. Nothing is unintelligible or
+uncaused. Once again, Spinoza lays his metaphysical rationalist cards on the table.
+E1a3 says, “From a determinate cause the effect follows necessarily; and conversely, if
+there is no determinate cause, it is impossible for an effect to follow.” That causes
+necessitate their effects guarantees that causes provide sufficient reasons or explanations
+of their effects. That nothing happens or exists without a cause entails that everything
+has a sufficient reason or explanation.
+E1a4 and E1a5, which read “The cognition of an effect involves and depends on cognition
+of its cause” and “Things that have nothing in common with one another also cannot be
+understood through one another, or the concept of the one does not involve the concept
+of the other” respectively, do not themselves express Spinoza’s metaphysical rationalism.
+However, they play an important role in establishing the relationship between causation,
+conception, and understanding, which in turn establishes the entailments from E1a1 and
+E1a3 to clear statements of metaphysical rationalism. It is on account of E1a4, which
+Spinoza interprets as meaning that the concept of the effect involves the concept of its
+cause, that causation is a necessary condition on conception. It is E1a5 that establishes
+that conception and understanding are coextensive—that is, x is conceived through y just
+in case x is understood through y. E1a4 and E1a5 together entail that causation and
+understanding are coextensive, that x causes y just in case y is understood through x.
+E1a6 and E1a7, alone among the axioms of Part I, have no discernible relation to
+Spinoza’s metaphysical rationalism. E1a6 says, “A true idea must agree with its object.” It
+expresses his commitment to a correspondence theory of truth. E1a7 says, “If a thing can
+be conceived as not existing, its essence does not involve existence.” This axiom is an
+instance of a more general principle that Spinoza clearly believes: if something can be
+accurately conceived as not-F, then F-ness does not belong to its essence. This connects
+essence to conception, causation, and understanding in ways that have interesting
+consequences for Spinoza’s metaphysical rationalism, but it is possible to consistently
+believe this principle and deny the PSR. For example, many philosophers today believe
+that conceivability entails possibility, but few of them endorse the PSR.
+(p. 138)
+
+Page 5 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+So we see, far from arriving late on the scene in E1p11d2, Spinoza’s metaphysical
+rationalism is built into the very axiomatic structure of his Ethics. As Spinoza draws out
+the logical consequences of these axioms throughout the rest of Part I, he is articulating
+the doctrines to which his metaphysical rationalism commits him.12
+We are also now in a position to start to answer some of the questions posed in the
+beginning of this paper. For example, we asked what is in the domain of the quantifier in
+the claim that everything has an explanation? All substances and modes have
+explanations. And apart from substances and modes, nothing else exists.13 So the domain
+includes substances and modes and nothing else. Does this mean that Spinoza denies the
+existence of the other entities often thought to be in the domain of the PSR, such as
+truths or events? It is not entirely clear. We can, however, say this much with confidence:
+if there are truths or events then they are either modes or substances. At first glance, it
+might seem natural to assume that modes and substances must belong to different
+ontological categories from truths and events. But, in fact, modes have many
+characteristics that facilitate an assimilation of truths and events to them. Consider
+truths first. Take some true statement p. It would not be implausible for Spinoza to claim
+that p is made true by God insofar as he is such that p. God insofar as he is such that p
+might strike some as a bizarre mode, but so long as we allow that being such that p is a
+way that God could be, there is no reason to suppose that no such mode exists. If this is
+so, then some modes are truthmakers.14 This suggestion is not to be confused with
+Curley’s famous claim that, in Spinoza, modes are facts even though, on both of our
+interpretations, modes are truthmakers.15 As I have interpreted modes, they are not
+abstract and they can exist at specific times and places and so are dissimilar to facts in
+these respects.
+(p. 139)
+
+We can further appreciate the difference between my interpretation and Curley’s
+
+by noting that, on my interpretation, some modes might be events. Events and Spinozistic
+modes have much in common. Both are particulars, both are concrete, and both
+correspond to changes in a substance. So for example, a touchdown could be identified
+with God insofar as he is affected by a football player who scores a touchdown. A
+touchdown is clearly not a fact, so it is not the case, on my interpretation, that modes are
+facts.
+I do not wish to suggest that Spinoza is committed to any of this, and I certainly do not
+mean to suggest that Spinoza carefully considered any of these issues. I merely wish to
+claim that if such questions were pressed on Spinoza, he could offer such answers
+without contradicting any of the metaphysical commitments that he does explicitly make.
+
+2. The Identity of Indiscernibles
+Moving forward from the axioms, we soon encounter a proposition that many have
+interpreted as expressing one of the alleged signature consequences of the PSR, the
+Principle of the Identity of Indiscernibles (the PII hereafter). In E1p5 of the Ethics,
+Spinoza seeks to establish that “[i]n nature there cannot be two or more substances of
+Page 6 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+the same nature or attribute.” This clearly bears at least some resemblance to the
+doctrine that Leibniz will later name “The Identity of Indiscernibles,” which says that x
+and y are numerically distinct just in case they are discernible—that is, different with
+respect to some pure intrinsic property. But it is far from clear that E1p5 and the PII say
+the same thing. First of all, as Leibniz understands the PII, no two things can be
+indiscernible in any qualitative intrinsic respect, not just in respect of attribute or
+essence. Second, Leibniz applies the PII to bodies and minds. Spinoza thinks that bodies
+and minds are modes, not substances. E1p5 is about substances. So E1p5 does not apply
+to bodies and minds. Third, Spinoza thinks that a substance can have more than one
+attribute but that no two substances can have the same attribute. This goes well beyond
+the Leibnizian doctrine. That doctrine merely states that any two things must differ in
+some respect, whereas Spinoza appears to say that any two substances must differ in
+every attribute. But these further doctrines that serve to distinguish Leibniz’s PII and
+E1p5 are introduced only after E1p5. Indeed, Spinoza argues for some of these later
+doctrines by way of E1p5, so the proper interpretation of E1p5 should not presuppose
+those doctrines. In any event, in this section, I shall simultaneously attempt to clarify
+E1p5’s relationship to the PSR and explore its relationship to the Leibnizian doctrine.
+Let us begin by explicating Leibniz’s version of the PII since its connection to the PSR is
+explicit. Seeing how the PII is connected to the PSR in Leibniz’s thinking may help us to
+see if Spinoza is committed to the PII by virtue of his metaphysical rationalism. As I have
+said, Leibniz holds that any two objects differ with respect to their pure intrinsic
+properties. Intrinsic properties are properties that are not extrinsic. An extrinsic property
+is a property that is possessed only if some non-reflexive relation holds. For (p. 140)
+example, being a brother is an extrinsic property because possessing it entails that one is
+appropriately related to some other person.
+A pure property can be understood in contrast to an impure property. An impure property
+is a property the instantiation of which entails the existence of a specific particular. For
+example, being fifty miles from Paris is impure since nothing has that property unless
+Paris itself exists. That Leibniz does not intend impure properties to be relevant to the
+individuation of substances is also clear from his rejection of cases where intrinsically
+alike substances differ with respect to their relations and relational properties on the
+grounds of the PII. If impure properties were allowed to individuate substances, then
+such cases would not violate the PII because the substances in question would differ with
+respect to their impure properties.
+Not all pure properties are intrinsic, and not all extrinsic properties are impure. For
+example, being fifty miles from the capitol of the oldest nation state is both pure and
+extrinsic. Being identical to Socrates is both impure and intrinsic.
+The restriction to pure intrinsic properties make sense given Leibniz’s main argument for
+the PII.16 He says that nothing happens without a sufficient reason (the PSR) and so God
+does not create the world without a sufficient reason. If the world contained two
+individuals that were identical with respect to all of their pure intrinsic properties (but
+Page 7 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+perhaps differing with respect to their extrinsic or impure properties), then God would
+have no reason to create the actual world rather than a world in which these two
+indiscernible individuals were switched with respect to their extrinsic relations.
+Therefore, there are no such indiscernible individuals. That extrinsic properties are
+irrelevant to individuation is clear from the fact that relations that one individual bears to
+its environment cannot provide the reason why it bears those relations and not the
+relations borne by its indiscernible counterpart. For example, if the world contained two
+indiscernible twins, Mary-Kate and Ashley, such that Mary-Kate was born first and Ashley
+was born second, God must have determined their birth order arbitrarily and so such a
+world violates the PSR. That impure properties are irrelevant comes from the fact that
+God’s sufficient reason for creating the world is moral: this is the best possible world.
+Leibniz’s thought is that impure properties are irrelevant to moral value. For example, if
+Mary-Kate and Ashley are alike with respect to all of their pure qualities, it would be
+absurd to think that Mary-Kate is virtuous and Ashley is vicious. What could account for
+this moral difference? The mere fact that Mary-Kate is Mary-Kate and Ashley is Ashley?
+Impure properties, Leibniz quite plausibly claims, are irrelevant to moral evaluation.
+Before turning to Spinoza’s argument for E1p5, it is worth noting that if his metaphysical
+rationalism leads him, like Leibniz, to the PII, it will be either a very different version of
+the principle or for very different reasons. This is because Leibniz’s version of the PII is
+distinctive in its restriction to pure intrinsic properties, and the reason for these
+restrictions are found in the moral judgments guiding God’s choice. Spinoza’s God does
+not make moral judgments and does not choose. Nothing is good or evil from
+God’s perspective, and God produces the world out of natural necessity, not choice.17 So
+(p. 141)
+
+either Spinoza’s metaphysical rationalism does not motivate a restriction to pure intrinsic
+properties or it motivates them very differently than for Leibniz.
+The first step in Spinoza’s argument is to establish that things are distinguished from
+each other only by a difference in their attributes or in their affections or modes. If two
+things are distinguished from each other, Spinoza reasons, they must be distinguished by
+some difference. There are only substances and their modes. So only substances and
+modes can serve to distinguish anything. Spinoza quickly moves from only substances and
+modes can serve to distinguish to only attributes and modes can serve to distinguish. In
+making this move, he cites the definition of attribute as what the intellect perceives as
+constituting the essence of a substance. So substances can be distinguished only by
+essence or by accident.18 He continues by noting that if two substances are distinguished
+by attribute then we have no counterexample to the claim that there can be only one
+substance of the same nature or attribute. Furthermore, it is not possible that two
+substances are distinguished by their modes because substances are conceived through
+themselves whereas modes are conceived through the substances in which they inhere.
+Spinoza appears to assume that if one substance is distinguished from another by a kind
+of feature then that substance must be conceived through that kind of feature.
+Presumably, he thinks this because he thinks that one cannot conceive of something if one
+cannot distinguish it from other things. So if what distinguishes one thing from another
+are features of a certain kind, then it must be at least partially conceived through such
+Page 8 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+features. For example, if two things are indistinguishable in all respects other than their
+spatial location, then they must be conceived, at least partially, through their spatial
+locations. Otherwise, nothing would make a thought determinately about one rather than
+the other. Spinoza concludes that, since neither attribute nor mode can distinguish
+substances of the same attribute, there cannot be two substances of the same nature or
+attribute.
+On the face of it, Spinoza’s reasoning is not cogent. As Leibniz—always a perceptive
+reader of Spinoza—points out, two substances could share some but not all of their
+attributes. Thus they could be distinguished by a difference in attribute although their
+attributes overlap. But, as Della Rocca has convincingly argued, Spinoza believes that
+each attribute must be, in itself, sufficient for conceiving of a substance. That is to say,
+suppose a substance has attributes F and G. Both F and G must be individually sufficient
+for conceiving of the substance. But if there were a second substance that was F but not
+G, conceiving of a substance as F would not be sufficient for conceiving of either of them.
+Thus there can be no two substances that share an attribute.19
+We are now in a position to summarize the core of Spinoza’s argument. His begins
+by assuming that: (1) if two things are different then they are conceived of differently, and
+(p. 142)
+
+(2) things are conceived through their essences. From (2) follows (3) conceiving an
+attribute that expresses the essence of a substance is sufficient for conceiving of that
+substance. So if there were two substances that shared an attribute, it would follow from
+(3) that each substance could be conceived through that attribute. But this would violate
+(1). So neither substance could be conceived through that attribute. This contradicts (3).
+From this it follows that no two substances share an attribute. None of Spinoza’s
+assumptions appear to be closely related to the PSR. They relate instead to his theory of
+conception and essence. No doubt this theory has important consequences for the PSR,
+especially given Spinoza’s belief that one thing is conceived through another just in case
+the one is understood through the other. But those consequences for the PSR are
+downstream from the assumptions of E1p5d. They do not feed forward from the PSR to
+E1p5d. Thus Spinoza’s version of the PII, unlike Leibniz’s does not derive from the PSR,
+at least in the demonstration of E1p5.
+Della Rocca has argued that, although the demonstration of E1p5 does not explicitly
+depend upon the PSR, it is possible, nonetheless, to discern a connection. He says:
+One can see that [Spinoza’s version of the PII] turns on the notion of explaining
+non-identity and, as such, one can see its roots in the PSR. Non-identities, by the
+PSR, require explanation, and the way to explain non-identity is to appeal to some
+difference in properties.
+(Della Rocca, Spinoza, p. 47)
+Might the PSR lurk behind E1p5 as an unarticulated motivation? It is not entirely
+implausible since Spinoza clearly believes that everything has an explanation, and so we
+might infer that identities have an explanation. But there is, nonetheless, reason for
+Page 9 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+skepticism. As noted earlier, universal quantifiers are rarely (if ever) unrestricted and not
+all metaphysical rationalists think that identities require explanation. We have already
+seen that, in Leibniz, the PII follows, in part, from the PSR but not because identities
+require explanation.20 It is because God’s choice of a world must be motivated and
+nothing could motivate God to choose between worlds that were indiscernible with
+respect to their qualitative features but discernible with respect to their non-qualitative
+features. Indeed, for Leibniz, the sufficient reason for a necessary truth is always an
+identity. He never suggests that the identities themselves require an explanation.
+What about Spinoza? Might his metaphysical rationalism have drawn him toward
+the PII? Let us pause to look more closely at how identities can be explained. The
+rationalist proponent of the PII plausibly holds that identities are explained by quality
+distributions. How are identities explained by quality distributions? Say that a = b. Why
+does a = b? Because (If (for all Fs, a is F just in case b is F) then a = b) and (for all Fs, a is
+F just in case b is F). We have explained an identity fact (that a = b) by a quality
+distribution fact (that for all F s, a is F just in case B is F). But what explains the quality
+distribution? Why is it the case that for all Fs, a is F just in case b is F ? If a = b, then the
+only possible explanation of this coincidence of properties seems to be the identity of a
+(p. 143)
+
+and b. (Think of how scientists arrive at theoretical identifications. In the laboratory, it is
+determined that, for every property tested for, water, for example, is the same as H20.
+What could explain this coincidence? That water = H2O!) To put the point slightly
+differently, why am I identical to myself? Because I have every property that I have. To
+deny this would be a contradiction. But it would be a contradiction only if I am selfidentical. If I were not, then it would not be contradictory for me to have properties that I
+lack. But it cannot be the case that identities are explained by quality distributions and
+quality distributions are explained by identities. If both were the case, we would have a
+vicious explanatory circle. We must choose between explaining the identities by the
+quality distributions and explaining the quality distributions by the identities. The PSR
+offers us no guidance here.
+One consideration that could decide the difference is the ontological priority that one
+assigns to objects and qualities.21 If you think that objects are somehow ontologically
+prior to qualities then you should prefer the explanations of quality distributions by
+identities. On the other hand, if you think that qualities are somehow more basic than
+objects (for example, if you are a bundle theorist) then you should prefer explanations of
+identities in terms of quality distributions. It would appear, however, that Spinoza thinks
+that substance and its attributes are ontologically on par. Substance cannot exist without
+its attributes and vice versa. Thus it appears that Spinoza’s commitment to the PSR gives
+Spinoza no reason to think that identities must be grounded in quality distributions. But,
+in the end, the question is moot because we have already seen that Spinoza has
+altogether different reasons for holding his version of the PII that are not derived from
+his metaphysical rationalism.
+
+Page 10 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+Before turning to our next topic, I would like to consider briefly the question of the
+applicability of the PII to attributes, properties, and relations. Della Rocca has argued
+that Spinoza’s commitment to the PII requires him to identify indiscernible properties and
+relations.22 What kinds of features could distinguish between two properties or relations?
+Perhaps they are distinguished by the second-order properties such as their extensions.
+Thus if two properties or relations were coextensive they would be identical. For example,
+this would mean that, since Spinoza believes that x causes y just in case x is (p. 144)
+conceived through y, he is committed to believing and indeed does believe that causation
+just is conception. That is, x causes y and x is conceived through y indicate the same
+relation. He thinks that if they were two different relations, there would have to be an
+explanation of their nonidentity. The only candidate explanation is a difference in their
+extensions. They have the same extensions. So if they were not identical, their
+nonidentity would be brute. Nothing is brute. Therefore, they are identical.
+It is far from obvious to me that Spinoza would accept this line of reasoning. Spinoza’s
+statement of the PII in E1p5 is explicitly in terms of substances, not properties or
+relations. But does Spinoza’s reasoning generalize? Intuitively, triangularity and threesidedness are different properties even though they are coextensive. There are, of course,
+philosophers who deny this. Might Spinoza be among them? It is unclear, but if he is, it is
+not because his metaphysical rationalism obliges him so. As I argued earlier, it is
+consistent with the PSR that identities are more basic than quality distributions and
+indeed explain those distributions. The same could be true of the identity of properties
+and the distribution of second-order properties. Just as basic identity properties are not
+obviously repellent to metaphysical rationalism, neither are quiddities, the intrinsic
+natures of a properties. Thus Spinoza might believe, consistent with his metaphysical
+rationalism, that attributes, properties, and relations are individuated by their quiddities.
+
+3. The Necessary Existence of God
+That God exists necessarily is another doctrine that is often thought to be entailed by the
+PSR. In this case, Spinoza clearly agrees. In E1p11d2, he both gives the first explicit
+statement of the PSR in the Ethics and attempts to deduce the necessary existence of God
+from it. Spinoza’s argument is noteworthy because, among other reasons, it is not a
+variant of any of the traditional cosmological arguments usually associated with the PSR.
+Instead, he attempts to show that the nonexistence of God would be inexplicable and
+hence impossible.
+In what follows, I propose to look at the details of Spinoza’s argument with an eye toward
+specifying the role played by the PSR. I shall argue that the details of Spinoza’s purported
+proof illuminate in interesting ways Spinoza’s conception of both causation and
+explanation. I shall also spend some time evaluating the cogency of Spinoza’s argument.
+By accurately appreciating what does and does not follow from the PSR, we shall acquire
+a better understanding of its strength and content.
+
+Page 11 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+Spinoza begins by saying that substances are the kinds of things that are self-caused, by
+which he means they have essences that involve existence.23 They are self-caused in that
+given their natures, their existence does not call for further (p. 145) explanation. If you
+grasp the essence of substance, you cannot reasonably ask why it exists if it exists. So if a
+substance did not exist, there would, by the PSR, have to be an explanation of its
+nonexistence. But the cause of the nonexistence of God is either internal to God or
+external to God. If it is external, then it either shares a nature with God or it does not. If it
+shares a nature, then it is God, and so God exists. If it does not share a nature with God,
+then it has nothing in common with God so it can neither bring him into existence or
+prevent him from existing. So the cause of the nonexistence of God cannot be external. If
+it is internal, then God’s nature is contradictory, but it is absurd to say that the nature of
+a perfect being is contradictory. So God necessarily exists.
+There is much here that deserves comment. Let us start by examining Spinoza’s
+understanding of a self-caused being. A self-caused being is one that satisfies the PSR
+without having an external cause for its existence. One way that a being might cause
+itself is by means of backwards causation or time travel. For example, a man could travel
+back in time and bring it about that his parents meet. So he is the cause of his own
+existence. This is not what Spinoza has in mind. A self-caused substance does not bring
+itself into existence by means of efficient causation. Rather a self-caused substance
+explains its own existence because its essence involves existence. This immediately calls
+to mind debates about whether existence is a property and so could partially constitute
+the essence of something. But Spinoza never claims that existence is a property, and it is
+not clear that when he says a self-caused substance has an essence that involves
+existence that “involves” means includes or is partially constituted by. Is there another
+way of understanding self-causation? Take the example of the empty set. It is not part of
+the definition of the empty set that it exists, but anyone who grasps the essence of the
+empty set and does not believe that sets are impossible will believe that the empty set
+exists. The existence of the empty set will not strike anyone as calling out for explanation.
+Its existence is not brute or in any way mysterious. Indeed, if someone asked why the
+empty set exists, it would be reasonable to doubt that she had fully grasped the concept
+of the empty set. So we see that existence might be metaphysically entailed by
+something’s nature even though existence is not a property and is not a constituent of its
+essence or real definition. I do not know if Spinoza would view the existence of a
+substance as analogous to the existence of the empty set in this way. The letter of the text
+is compatible with both accounts.
+Consider next, Spinoza’s claim that the nonexistence of something requires a cause or
+explanation. This is, of course, just Spinoza’s metaphysical rationalism. The nonexistence
+of something cannot be brute. There must be a reason why. Spinoza thinks that there are
+just two kinds of explanation for nonexistence. Either the nonexistence is explained by
+the thing’s nature or by the action of some external cause. Spinoza gives the example of
+the nonexistence of a square circle to illustrate how a thing’s nature could explain its
+nonexistence. The nature of a square circle (Spinoza appears to believe that there are
+natures of impossible beings) involves a contradiction, and this explains the nonexistence
+Page 12 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+of them. The nonexistence of a tiger in my study, on the other hand, is not explained by
+the nature of tigers alone but rather by the prior state of the universe (“the (p. 146) order
+of nature,” in Spinoza’s vocabulary). That prior state entails the current state, and the
+current state includes the nonexistence of a tiger in my study.
+Could the nonexistence of God be explained by an external cause? Spinoza believes that if
+x causes the nonexistence of Fs, then x has something in common with Fs. He believes
+this because he thinks that causes must have something in common with their effects. He
+has two reasons to believe that. First, there is the common (although by no means
+universal) assumption in the seventeenth century that causation is something like a kind
+of property transference.24 In order for the cause to transfer a property to its effect, the
+effect must be the kind of thing that can possess such a property. In other words, the
+essence of a thing must be compatible with the property. So the cause and the effect must
+both have the kind of essence compatible with the possession of the property the transfer
+of which is the causation. Spinoza assumes that if both the cause and the effect have the
+kind of essence compatible with possession of the transferred property, then they have
+the same essence or are modes of the same essence. This assumption is motivated by
+further assumptions about the structure of property space. Attributes are determinables
+and all modes are determinates of some attribute or are derived from such determinants.
+If you want to prevent something from existing, you have to block its causes. Since its
+causes share an attribute with it, and blocking is a causal relation, then anything cable of
+blocking its causes shares an attribute with it. But since substances are individuated by
+their attributes, the only thing that shares an attribute with a substance is itself.25
+This line of reasoning is somewhat puzzling. It seems most appropriate to things with
+external efficient causes. But the topic under discussion is God’s necessary existence.
+God is self-caused—that is, his essence involves existence. As we have noted earlier, it is
+not entirely clear how Spinoza understands self-causation, but what is clear is that it is
+not a kind of efficient causation by external causes. The story told above appears to be
+about external efficient causation. So it is unclear if it is relevant to our issue.
+I think the best way to make sense of Spinoza’s remarks is to construe him as
+saying that the only way that an external cause could bring about the nonexistence of a
+thing is by blocking the causes that produce that thing. But a self-caused being has no
+such external causes, so the causes cannot be blocked. Thus no external cause can
+prevent something self-caused from existing. But since a self-caused being is such that its
+existence is explained by something other than efficient causes, could its nonexistence
+also be explained by something external other than efficient causes? Could there be an
+explanation of the nonexistence of a self-caused being that cited factors external to the
+nature of the thing? Take the case of the empty set. The notion of the empty set is not
+incoherent, so if it did not exist, its nonexistence would be explained, presumably, by
+something external. What could that be? Surely not an external efficient cause. Still
+someone might reasonably believe both that the empty set does not exist and that this
+nonexistence has an explanation. For example, it might be explained by the fact that
+everything that exists must be concrete. Since the empty set is abstract, it does not exist.
+(p. 147)
+
+Page 13 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+The fact that only concrete things exist does not need to share an attribute with the
+empty set in order to explain its nonexistence since it is not achieving that via blocking
+the empty set’s external efficient causes.
+It is difficult even to formulate these questions in terms of Spinoza’s metaphysics. Of
+what attribute is God insofar as he is such that the empty set does not exist a mode? Of
+what attribute is God insofar as he is such that everything that exists is concrete?
+Thought? Extension? Neither of these seem correct. Is this evidence that we have made a
+wrong turn? Would Spinoza then see our questions as somehow ill formed? On what
+grounds? It is far from clear what justification Spinoza has for his conviction that thought
+and extension are the only known attributes. And he himself holds true many statements
+that cannot be easily construed as being made true by a mode of either thought or
+extension. For example, Spinoza believes that whatever is must be in itself or in another.
+Is that made true by a mode of extension? A mode of thought? The problem is not that
+Spinoza does not recognize any ontological categories apart from substance and mode.
+Rather such difficulties arise from his insistence that all modes are modes of either
+extension or thought. In any event, the anti-platonist’s claim that the empty set does not
+exist would not need to be explained by something blocking the external causes of the
+empty set’s existence. So it is unclear why the factors that explain the nonexistence of the
+empty set need to share a nature with the empty set.
+Before we turn our attention to Spinoza’s argument for the claim that there can be no
+internal cause of God’s nonexistence, we should pause to note that it is also not obvious
+that, even granting all of Spinoza’s assumptions about efficient causation, in order to
+block God’s existence, an external efficient cause would have to share God’s essence
+completely. Partial overlap may suffice. God is by definition a substance with infinitely
+many attributes. So to have God’s essence, a substance would have to have infinitely
+many attributes. But why could a merely extended substance, for example, not block
+God’s existence? After all, there can only be one substance per attribute. So if a merely
+extended substance existed, that would, all by itself, preclude the existence of any other
+extended substance, including God. Some commentators have argued that Spinoza’s
+(p. 148) response to this objection can be discerned in the third and fourth arguments
+contained in E1p11.26 Important and interesting issues pertaining to power, infinity, and
+reality as Spinoza understands them are raised by these arguments, but consideration of
+them would divert us from our topic, the PSR, so I shall set them aside in this paper.
+Let us next consider Spinoza’s argument for the conclusion that the nature of God cannot
+account for God’s nonexistence. Spinoza’s argument has two main premises. The first is
+that God, by definition, is a substance and all substances have essences that involve
+existence. In other words, substances are self-caused. So, by definition, if God exists, then
+God is self-caused—that is, his existence would call out for no further explanation. The
+second is the claim that it is absurd to think that a perfect being has a contradictory
+essence. These two premises purport to rule out the two ways that God’s nature could
+explain God’s nonexistence. The first way is by lacking the power to explain God’s
+existence. The second is by being the sort of nature that cannot be exemplified. But
+Page 14 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+defining God as a substance does not guarantee that he has a nature that does not
+explain his nonexistence. Something could be defined as self-caused and yet have a
+nature that explains its nonexistence without appealing to contradiction. Many things are
+impossible despite having coherent essences. Many philosophers doubt the existence of
+Platonic forms or Leibnizian monads without alleging incoherence. And if forms or
+monads do not exist, it is presumably not contingently so—that is, there is no external
+cause for their nonexistence. So Spinoza’s claim that the only internal source of
+nonexistence is incoherence is tendentious. If some natures are unexemplified for
+internal reasons other than incoherence, then Spinoza must show that God’s nature is not
+among them. Indeed, an orthodox Cartesian would regard Spinoza’s God as
+metaphysically impossible insofar as Spinoza defines God as a substance with infinitely
+many attributes and Descartes thinks that substances cannot have more than one
+attribute.27 The nature of Spinoza’s God cannot be exemplified, according to the
+Cartesian, not on account of a contradiction contained in his essence. Rather, his nature
+cannot be exemplified on account of necessary truth about the category of substance.
+What is more, Spinoza has not shown that the nature of God does not contain a
+contradiction. He merely asserts that it would be absurd to suppose that a being that is
+“absolutely infinite and supremely perfect” has a nature that involves a contradiction.
+Something like this is assumed by all ontological arguers prior to Leibniz (who correctly
+realized that it is necessary first to show that God is possible) but is far from obvious. For
+example, omnipotence is often thought to follow from supreme perfection, but it is not
+clear that omnipotence is a coherent concept.28
+So we see that the PSR does not entail the necessary existence of God without the aid of a
+whole host of highly controversial assumptions. Nevertheless, Spinoza’s use of the PSR in
+E1p11d2 allows us to shed some light on one of the questions posed at the outset (p. 149)
+of this paper: what is a reason or explanation? Unsurprisingly, we will not get a complete
+answer to this question, and Spinoza himself never tackles it directly. But we have seen in
+the course of considering Spinoza’s argument for the necessary existence of God from the
+PSR that Spinoza thinks that substances can explain their own existences and do so not
+by being their own efficient causes but by having natures that involve existence. There is
+much that is obscure in this claim, but we can infer that some explanations or reasons are
+not efficient causal explanations (of the sort favored by many philosophers today) but
+rather take the form of explicating a nature or essence.
+
+4. The Principle of Plentitude
+Another important doctrine often associated with the PSR is what Lovejoy calls the
+Principle of Plentitude (the PP hereafter). The PP says, in Lovejoy’s words, that “no
+genuine potentiality of being can remain unfulfilled, that the extent and abundance of the
+creation must be as great as the possibility of existence and commensurate with the
+productive capacity of a ‘perfect’ and inexhaustible Source.”29 It is clear that Spinoza
+endorses the PP. He writes:
+Page 15 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+From the necessity of the divine nature there must follow infinitely many things in
+infinitely many modes, (i.e., everything which can fall under an infinite intellect)30
+The PP is often thought to be a consequence of the PSR, and some commentators have
+thought that Spinoza derives his commitment to the PP from his commitment to the
+PSR.31 It is far from clear that the demonstration of E1p16 supports this conclusion,
+although I shall argue that it is possible that the PSR plays some background role in
+Spinoza’s thinking on the subject.
+In the demonstration of this proposition, Spinoza reasons as follows: Properties follow
+from the definition or nature of a thing. The more reality the thing defined possesses, the
+more properties that follow from it. The divine nature is absolutely infinite. So infinitely
+many things follow from it.
+The most noteworthy thing about this argument given our present purposes is that there
+is no explicit reference to the PSR in Spinoza’s discussion. The only citation in the
+demonstration is to E1d6, the definition of God. But prior results are, unsurprisingly,
+assumed by the demonstration. For example, that God exists is obviously assumed. Since
+Spinoza argues for the existence of God by way of the PSR, to that extent at least, E1p16
+assumes the PSR. But many have consistently believed that God exists without (p. 150)
+believing the PP. And it is equally coherent to subscribe to the PP while denying the
+existence of God. So the existence of God alone leaves us far short of the PP.
+Is it possible to discern the influence of the PSR behind any other assumptions or
+inferences made in E1p16? It is difficult to say with any confidence. The argument given
+in E1p16d is very quick and, indeed, invalid as stated. (That infinitely many things follow
+from the divine nature does not entail that every possible thing follows from the divine
+nature.) It is tempting to imagine that Spinoza reasoned that if something is absolutely
+infinite then it has infinite power. So there is no possible thing that it cannot bring into
+existence. If there is a possible thing that does not exist, its nonexistence must have an
+explanation. Since God is omnipotent, the explanation cannot be God’s nature. So there
+must be an external cause preventing it. But no external cause can limit God. So every
+possible thing exists. This assumes, of course, that there are no necessary connections
+between modes such that if, for example, mode m exists then mode m1 cannot exist.
+I believe that Spinoza would have found the above line of reasoning congenial, but it is
+pure speculation to assert that he ever entertained it let alone endorsed it. It remains,
+therefore, entirely possible that the PP had no significant connection to the PSR in
+Spinoza’s mind.
+Before moving on to our next topic, necessitarianism, a couple of remarks on the
+connection between the PP and necessitarianism are in order. One might think that the
+PP is equivalent to necessitarianism. If there are no unactualized possibilities, then is the
+actual world not the only possible world?32 Not necessarily, because, for all the PP says,
+there might have been unactualized possibilities. There are, then, possible worlds in
+which there are unactualized possibilities and the actual world is not the only possible
+Page 16 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+world. In other words, even if the actual world contains every possible thing, there may
+well be possible worlds that include fewer things (although not more things). Such worlds
+represent ways the world could have been otherwise. Necessitarianism is stronger than
+the PP. If necessitarianism is true, then there are no unrealized possibilities, i.e., the PP is
+true.33
+It might seem odd that Spinoza first tries to prove the weaker claim, the PP, and then
+tries to prove the stronger claim, necessitarianism. After all, the PP is not sufficient for
+necessitarianism but necessitarianism is sufficient for the PP. But Spinoza’s focus in
+E1p16 is not the PP as such. He is much more interested in showing two different claims:
+first, that God acts out of natural necessity and second, that a diversity of effects is
+consistent with natural necessity. Both of these claims are controversial. A standard view
+among Spinoza’s predecessors is that God is a voluntary agent as opposed to a natural
+agent. A natural agent is one who acts out of natural necessity—that is, the (p. 151)
+actions of a natural agent follow from the essence of the agent. A voluntary agent is one
+who deliberates and chooses her actions. So when Spinoza argues in E1p16 that infinitely
+many things follow from the nature of God, he is staking out the unorthodox position that
+God is a natural agent. It was also commonly assumed by Spinoza’s predecessors that
+natural agents produce only one effect by nature. Spinoza argues on the contrary that an
+infinite natural agent will have infinitely many natural effects. Both of these claims are
+important for Spinoza’s argument for necessitarianism, as we shall see in the next
+section.
+
+5. Necessitarianism
+Another alleged consequence of metaphysical rationalism is necessitarianism. Indeed,
+this alleged consequence is sometimes cited as a refutation of metaphysical rationalism.
+But, as always, one philosopher’s modus tollens is another’s modus ponens: Spinoza
+believes that rationalism entails necessitarianism and so accepts necessitarianism.
+At first glance, it might appear that Spinoza’s argument for necessitarianism doesn’t rely
+upon the PSR. He writes:
+E1p29: In nature there is nothing contingent, but all things, from the necessity of the
+divine nature, have been determined to exist and act [operandum] in a certain way.
+Whatever is, is in God (by E1p15); but God cannot be called a contingent thing. For (by
+E1p11) he exists necessarily, not contingently. Next, the modes of the divine nature have
+also followed from it necessarily and not contingently (by E1p16); and they either follow
+from the divine nature insofar as it is considered absolutely (by E1p21) or insofar as it is
+considered to be determined to act in a certain way (by E1p28). Further, God is not just
+the cause of these modes insofar as they exist (by E1p24c), but also (by E1p26) insofar as
+they are considered to be determined to produce an effect. For if they have not been
+determined by God, then (by E1p26) it is impossible, not contingent, that they should
+determine themselves. Conversely (by E1p27) if they have been determined by God, it is
+Page 17 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+not contingent, but impossible, that they should render themselves undetermined. So all
+things have been determined from the necessity of the divine nature, not only to exist, but
+to exist in a certain way, and to produce effects in a certain way. There is nothing
+contingent, q.e.d.
+The main idea here is that the nature of a necessary being necessitates or determines
+everything. (E1p16) What is necessitated by something necessary is itself necessary. So
+everything is necessary.
+There is no explicit statement of the PSR in this text, and none of the axioms that express
+it are cited. Of course, E1p11, which states that God necessarily exists, depends upon the
+PSR, but no one thinks that the mere existence of God entails necessitarianism with no
+additional assumptions. But in fact, many of the premises of this argument presuppose
+the PSR. Let us start with E1p15, which says that whatever is, is in God. This is because
+of the conjunction of E1a1 and 1p14. Recall that E1a1 says that whatever is, is (p. 152)
+itself or in another, which I have argued is, given Spinoza’s understanding of inherence,
+tantamount to the PSR.
+E1p26, which says that effects of the modes follow from the divine nature, also depends
+upon the PSR. The idea is that modes produce effects in virtue of their essences. The
+essences of things must be conceived through God because, by E1p15, everything is
+conceived through God. And we have just seen that Spinoza thinks that E1p15 is partially
+a consequence of the PSR.
+In short, everything is conceived through or understood through God. This entails that
+everything is understood, which is just metaphysical rationalism. But what is understood
+through something necessary is, Spinoza concludes, itself necessary. Why Spinoza thinks
+so can be seen in two ways. The first is to note that Spinoza appears to think that to
+understand something is to possess an explanation of it. A complete explanation of
+something specifies its sufficient reason. If something necessary is sufficient for
+something else, then this too is necessary. This can be perspicuously framed in terms of
+possible worlds. What is necessary exists in every possible world. If it is sufficient for
+some x, then it cannot exist without x existing too. So x exists in every possible world, that
+is, x is necessary. The second is to note that one thing is understood or conceived through
+another just in case it is caused by it. So everything is caused by God. Causes
+necessitate.34 God is a necessary being. So everything is necessitated by something
+necessary. This entails that everything is necessary for similar reasons. So, appearances
+notwithstanding, the PSR plays an indispensable role in Spinoza’s argument for
+necessitarianism.
+
+6. Conclusion
+More than ever before, recent Spinoza scholarship has emphasized the importance of the
+PSR in Spinoza’s thinking. This has trend has been, I believe, salutary and has led to a
+deeper understanding of Spinoza on a wide range of topics. It is my hope that this paper
+Page 18 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+contributes to this effort in a number of ways. First, I have tried to elucidate the meaning
+of the PSR as Spinoza understands it by specifying the range of things to which the PSR
+applies and by partially explicating the notion of explanation at work in Spinoza’s
+thought. I have also explored the place of the PSR in the axiomatic foundations (p. 153) of
+Spinoza’s system as articulated in the Ethics as well as its role in Spinoza’s arguments for
+some of his most important doctrines.
+In some cases, I have nevertheless, argued for conclusions that go against the current
+trend, which tends to depict the PSR as the central idea driving Spinoza’s thinking. For
+example, I have argued that Spinoza’s version of the PII as articulated in E1p5 does not
+follow from the PSR but rather derives from other, unrelated assumptions. Moreover, I
+have argued against the idea that the PII can be straightforwardly applied to anything
+other than substances as some influential commentators have assumed. I have also
+argued that, in opposition to a well-established interpretative tradition, the importance of
+the PSR to Spinoza’s Principle of Plentitude is far from clear.
+In short, the picture of Spinoza that emerges from this essay is one of a deeply committed
+metaphysical rationalist whose philosophy nevertheless cannot be reduced to simply the
+systematic working out of the consequences of the PSR. Spinoza’s thought is more
+variegated and multifaceted than that. I do not want to deny, however, that the PSR is a
+defining feature of Spinoza’s system. I merely want to emphasize that is not the only one.
+Finally, I must admit that the present effort only begins to scrape the surface of the topic
+of Spinoza’s metaphysical rationalism. I have left unexplored the role of the PSR in
+Spinoza’s philosophy of mind, his physics, his moral psychology, his ethics, and his
+political philosophy. Although the PSR is often thought of as a purely metaphysical
+doctrine, I believe that it is possible to discern its influence in these other areas of
+Spinoza’s thought.35 Consideration of such issues is, unfortunately, beyond the scope of
+this paper. There is more work to be done.
+
+Bibliography
+Bennett, Jonathan. A Study of Spinoza’s Ethics. Indianapolis: Hackett, 1984.
+Biro, John I., and Olli Koistinen, eds. Spinoza: Metaphysical Themes. Oxford: Oxford
+University Press, 2002.
+Cover, J. A., and Mark Kulstad, eds. Central Themes in Early Modern Philosophy: Essays
+Presented to Jonathan Bennett. Indianapolis: Hackett, 1990.
+Curley, Edwin. Spinoza’s Metaphysics. Cambridge: Harvard University Press, 1969.
+Della Rocca, Michael. Spinoza. New York: Routledge Press, 2008.
+Della Rocca, Michael. “Spinoza’s Substance Monism.” In Biro and Koistinen eds., Spinoza:
+Metaphysical Themes, pp. 11–37.
+
+Page 19 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+Garrett, Don. “Spinoza’s ‘Ontological’ Argument.” Philosophical Review 88 (1979): 198–
+223.
+Garrett, Don. “Ethics Ip5: Shared Attributes and the Basis of Spinoza’s Monism.” In Cover
+and Kulstad, eds., Central Themes in Early Modern Philosophy: Essays Presented to
+Jonathan Bennett, pp. 69–108.
+Garrett, Don. “Spinoza’s Conatus Argument.” In Biro and Koistinen, eds., Spinoza:
+Metaphysical Themes, pp. 127–58.
+(p. 154)
+
+Leibniz, Gottfried Wilhelm. “Primary Truths.” In Philosophical Essays, Trans. by Roger
+Ariew and Daniel Garber, Indianapolis: Hackett, 1989.
+Lin, Martin. “Spinoza’s Metaphysics of Desire.” Archiv für Geschichte der Philosophie 86
+(2004): 21–55.
+Lin, Martin. “Spinoza’s Arguments for the Existence of God.” Philosophy and
+Phenomenological Research 75 (2007): 269–97.
+Lovejoy, Arthur. The Great Chain of Being. Cambridge: Harvard University Press, 1957.
+
+Notes:
+(1) I am very grateful for helpful comments on drafts of this paper to Michael Della Rocca,
+Don Garrett, John Morrison, Tobias Wilsh, and the participants in my graduate seminar at
+Rutgers University during the spring semester of 2010.
+(2) E1d3, E1d5. Most English translations are taken from C, with occasional
+modifications.
+(3) E2p1, E2p6.
+(4) Categories, 1a20–1b9.
+(5) E1d5.
+(6) E1d3, E1d5.
+(7) It must be noted that Spinoza is not consistent in what he says about modes. He says,
+for example, in E1p25c that particular things are affections. But he also says, in E1p28d,
+that modes are substance insofar as it is affected in a determinate way. I do not know how
+to reconcile these two texts, and I think we must conclude that Spinoza is not as precise
+in his use of “mode” as we would have hoped. What I present here is an effort to clean
+things up a bit on Spinoza’s behalf.
+(8) E1a4, E1p25. Garrett argues that conception implies causation in his “Spinoza’s
+Conatus Argument,” p. 136. It is clear that Spinoza also believes that causation implies
+conception since he argues in E1p25 that God is the cause of the essences of things
+Page 20 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+because otherwise there would be things that are not conceived through God, which
+contradicts 1p15.
+(9) E1d3.
+(10) E1p3d.
+(11) This is because, as shown above, inherence implies conception and conception and
+causation are coextensive. See Garrett, “Spinoza’s Conatus Argument,” p. 137. See also,
+Curley, Spinoza’s Metaphysics, pp. 15–16.
+(12) For an alternative reading of the connection between Spinoza’s axioms and the PSR,
+see Garrett, “Ethics Ip5,” pp. 101–103.
+(13) What about attributes? Although I shall not argue the point here, I do not think that
+Spinoza regards attributes as among the things that are. They are, if you like, of the
+wrong category to be in the domain of quantification.
+(14) The existence of truthmakers does not, without further assumptions, entail the
+existence of truths or the reality of the truthmaking relation. (I owe this point to Don
+Garrett.) But if we suppose that truths supervene on truthmakers and that supervenient
+beings are nothing over and above their bases, then we can easily make the necessary
+inference without deforming Spinoza’s basic metaphysics.
+(15) Curely, Spinoza’s Metaphysics, pp. 50–74.
+(16) Leibniz presents several different arguments for the PII. The one discussed here,
+however, is the one characteristic of Leibinz’s late or mature period as articulated, for
+example, in his correspondence with Clarke
+(17) E1app.
+(18) Assuming that since modes are nonessential ways of being a substance they can be
+accurately called “accidents.”
+(19) Della Rocca, “Spinoza’s Substance Monism.”
+(20) One might point to “Primary Truths” as a text in which Leibniz does indeed claim that
+identities require an explanation. He writes that “in nature, there cannot be two
+individual things that differ in number alone. For it certainly must be possible to explain
+why they are different, and that explanation must derive from some difference they
+contain” (pp. 31–32). This text says only that nonidentities must have explanations.
+Perhaps one might think that if qualitative diversity explains nonidentity then qualitative
+sameness explains identity. But this would conflict with the rest of the essay in which
+Leibniz maintains that identities are primitive truths—that is to say, truths that do not
+rest upon other truths. In any event, the argument is weak, and Leibniz abandons it in
+favor of the argument for the PII discussed above.
+
+Page 21 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+(21) I am grateful to Ralf Bader for this suggestion.
+(22) Della Rocca, Spinoza, p. 65.
+(23) E1d1.
+(24) Lin, “Spinoza’s Metaphysics of Desire,” pp. 31–33.
+(25) Someone might object that I have needlessly saddled Spinoza with a doctrine that he
+never explicitly endorses and that his claim that causes and effects must share an
+attribute has an entirely different basis. Here is another line of reasoning that has some
+currency with readers of Spinoza. Effects are conceived through their causes—that is, to
+have the idea of the effect you must also possess the idea of its cause. Perhaps this is
+because the concept of the effect includes the concept of the cause. So you cannot have
+the idea of something caused by a mode of some attribute without an idea of that
+attribute. This does not, however, entail that causes and effects share an attribute.
+Suppose that the cause of some effect e falls under attribute F. So e is conceived through
+something that is F. Now, according to Spinoza, things are conceived through the
+attributes under which they fall. So if something falls under F, it must be conceived as
+such. So in order to conceive of e, we must also conceive of something that is F as F. This
+does not, however, entail that e is F. We must add the further assumption that, in order to
+conceive a mode of some attribute, it is unnecessary to possess the idea of any other
+attribute. Spinoza thinks that each attribute must be conceived through itself and that
+conceiving of a mode of an attribute in terms of some other attribute violates that
+constraint. I see this as compatible with and to some extent motivated by the theory of
+efficient causation discussed above. In any event, as we shall see, understanding
+Spinoza’s remarks as resting on this other basis does not clarify much.
+(26) Garrett, “Spinoza’s ‘Ontological’ Argument”; Lin, “Spinoza’s Arguments.”
+(27) Della Rocca, “Spinoza’s Substance Monism.”
+(28) I am thinking of well-known paradoxes indicated by questions such as, “Can God
+create a stone so heavy that even he cannot lift it?”
+(29) Lovejoy, The Great Chain of Being, p. 52.
+(30) E1p16.
+(31) The Great Chain of Being, pp. 151–157.
+(32) Bennett draws this inference from E1p16 in A Study, p. 122.
+(33) Of course, the necessity of the PP would be equivalent to necessitarianism. If every
+possibility is necessarily actualized, then there are no possible worlds in which fewer than
+all the possibilities are realized. Arguably, Spinoza thinks that E1p16 is an entailment of a
+necessary truth (that is, that the more reality a definition expresses, the more things the
+
+Page 22 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+The Principle of Sufficient Reason in Spinoza
+intellect infers from it). If this is so, he is committed to the necessity of the PP and thus to
+necessitarianism.
+(34) It is, of course, common to distinguish causal necessity from absolute necessity.
+Causal necessity might appear too weak to entail Spinoza’s conclusion. But those who
+think that causal necessity is weaker than absolute necessity typically think that the
+causes could be in place but that the effects could fail to follow because some further
+condition fails to hold. For example, the laws of nature might be different, but such a
+scenario is implausible in the context of E1p29. Because Spinoza presumably thinks that
+the laws of nature follow from God’s essence in the same way everything else does, the
+laws could not be different unless God had a different nature, which is absurd. The same
+would go for any other additional condition.
+(35) See Della Rocca’s Spinoza for a bold foray into the connection between these issues
+and Spinoza’s metaphysical rationalism.
+
+Martin Lin
+
+Martin Lin is Associate Professor of Philosophy at Rutgers University, New
+Brunswick. His research concerns metaphysics and philosophy of mind from a
+historical perspective, with particular attention to the seventeenth century.
+
+Page 23 of 23
+
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University of Toronto Libraries; date: 24 February 2019
+
+

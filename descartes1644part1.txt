@@ -1,0 +1,1738 @@
+Principles of Philosophy
+René Descartes
+
+Copyright © Jonathan Bennett 2017. All rights reserved
+[Brackets] enclose editorial explanations. Small ·dots· enclose material that has been added, but can be read
+as though it were part of the original text. Occasional •bullets, and also indenting of passages that are not
+quotations, are meant as aids to grasping the structure of a sentence or a thought. The basis from which this
+text was constructed was the translation by John Cottingham (Cambridge University Press), which is strongly
+recommended. Each four-point ellipsis . . . . indicates the omission of a short passage that seemed to be more
+trouble than it is worth. Longer omissions are reported between square brackets in normal-sized type.—Descartes
+wrote this work in Latin. A French translation appeared during his life-time, and he evidently saw and approved
+some of its departures from or additions to the Latin. A few of these will be incorporated, usually without
+sign-posting, in the present version.—When a section starts with a hook to something already said, it’s a hook to
+•the thought at the end of the preceding section, not to •its own heading. In the definitive Adam and Tannery
+edition of Descartes’s works, and presumably also in the first printing of the Principles, those items were not
+headings but marginal summaries.
+
+First launched: March 2008
+
+Last amended: January 2012 (a confusion relating to II.15)
+
+Contents
+Part 1: The principles of human knowledge
+
+1
+
+Part 2: The principles of material things
+
+22
+
+Part 3: The visible universe
+
+42
+
+Part 4: The earth
+
+58
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+Part 1: The principles of human knowledge
+
+ham’s translation—translates praejudicatum. Sometimes, for a change, it
+
+4. The reasons for doubt regarding sense-perceptible things.
+When we’re focussed on the search for truth, we’ll begin by
+doubting the existence of the objects of sense-perception and
+imagination. There are two reasons for this. (1) We have
+occasionally found our senses to be in error, and it’s not wise
+to place much trust in anyone or anything that has deceived
+us even once. (2) In our sleep we regularly seem to see or
+imagine things that don’t exist anywhere; and while we are
+doubting there seem to be no absolutely reliable criteria to
+distinguish being asleep from being awake.
+5. The reasons for doubting even mathematical demonstra-
+
+will be translated as ‘prejudice’, but always meaning something believed
+
+tions.
+
+1. The seeker after truth must once in his lifetime doubt
+everything that he can doubt.
+
+We’re bound to have many preconceived opinions that keep
+us from knowledge of the truth, because in our infancy,
+before we had the full use of our reason, we made all sorts of
+judgments about things presented to our senses. The only
+way to free ourselves from these opinions, it seems, is just
+once in our lives to take the trouble to doubt everything in
+which we find even the tiniest suspicion of uncertainty. [Here
+and throughout this work, ‘preconceived opinion’—following Cotting-
+
+in advance, believed long ago and then hung onto. It lacks much of the
+
+We’ll also doubt other things that we used to regard as
+perfectly certain—even rigorous mathematical proofs, even
+principles that we used to regard as self-evident. ·There
+are two reasons for this too·. (1) We have sometimes seen
+other people make mistakes in such matters, accepting as
+utterly certain and self-evident propositions that seemed
+false to us. (2) More important: we have been told that we
+were created by a God who can do anything. Well, for all
+we know he may have wanted to make us beings of such a
+kind that we are always wrong in our beliefs, even ones that
+seem to us supremely evident. ·This may seem extravagant,
+but it shouldn’t be brushed aside·. We have encountered
+some cases of error about something of which the person
+was perfectly certain, and it’s equally possible that certainty
+is always accompanied by error. ‘Mightn’t we have been
+brought into existence not by a supremely powerful God but
+by ourselves or by some other creator?’ Yes, but the less
+powerful our creator is, the more likely it is that we’re an
+imperfect product that is deceived all the time!
+
+force of ‘prejudice’ as we use that word today.]
+
+2. What is doubtful should even be considered as false.
+It will be useful ·to go even further than that·: when we doubt
+something we should think of it as outright false, because
+this will bring more thoroughly into the open truths that are
+certainly true and easy to know.
+3. But this doubt shouldn’t be carried over into everyday life.
+While this doubt continues, it should be kept in check and
+used only in thinking about the truth. In ordinary practical
+affairs we often have to act on the basis of what is merely
+probable, not having time to hold off until we could free
+ourselves from our doubts. Sometimes we may—·for practical reasons·—even have to choose between two alternatives
+without finding either of them to be more probable than the
+other.
+
+1
+
+Principles of Philosophy
+
+René Descartes
+
+6. We have free will, enabling us to avoid error by refusing to
+
+1: Human knowledge
+
+my knowledge of my thought is more basic and more certain
+than my knowledge of any corporeal thing.
+
+assent to anything doubtful.
+
+Still, whoever created us and however powerful and however
+deceitful he may be, we experience within ourselves a freedom to hold off from believing things that aren’t completely
+certain and thoroughly examined. So we can guard ourselves
+against ever going wrong.
+
+9. What is meant by ‘thought’.
+I take the word ‘thought’ to cover everything that we are
+aware of as happening within us, and it counts as ‘thought’
+because we are aware of it. That includes not only understanding, willing and imagining, but also sensory awareness.
+·To see some of the force of this, let’s connect it with the
+thought-experiment I conducted in section 7·. Consider
+these two inferences:
+I am seeing, therefore I exist.
+I am walking, therefore I exist.
+If I am using ‘seeing’ and ‘walking’ to name bodily activities,
+then neither inference is secure, because I might think I am
+seeing or walking in that sense at a time when my eyes are
+closed and I’m not moving about (this happens in dreams); I
+might even think that I am seeing or walking at a time when
+I don’t have a body at all. But if I use ‘seeing’ and ‘walking’
+as labels for the actual sense of or awareness of seeing or
+walking, then the inferences are perfectly secure, because
+they don’t go beyond the mind, which senses or thinks that
+it is seeing or walking.
+
+7. We can’t doubt that we exist while we are doubting; and
+this is the first thing we come to know when we philosophize
+in an orderly way.
+
+In rejecting everything that we can in any way doubt, even
+pretending to think it false, we can easily suppose that
+there’s no God and no heaven, that there are no bodies—so
+that we don’t have bodies, hands and feet and so on. But we
+can’t suppose that we, who are having such thoughts, are
+nothing! ‘At a time when I am thinking, I don’t exist’—that’s
+self-contradictory. So this item of knowledge—I’m thinking,
+so I exist—is the first and most certain thing to occur to
+anyone who philosophizes in an orderly way.
+8. In this way we discover how soul and body differ, i.e. what
+the difference is between a thinking thing and a corporeal
+one.
+
+10. Logical definitions for very simple and self-evident mat-
+
+This is the best way to discover what sort of thing the mind
+is, and how it differs from the body. How does it do that?
+
+ters only make them more obscure. Don’t think of •such
+items of knowledge as hard to discover.
+
+[Descartes answers this in terms of ‘we’; this version uses the singular ‘I’
+just for clarity’s sake.] Well, here I am supposing that everything
+
+I’m not going to explain many of the other terms (·in addition
+to ‘thought’·) that I have already used or will use later on,
+because they strike me as being sufficiently self-explanatory.
+I have often noticed that philosophers make the mistake
+of trying to explain things that were already very simple
+and self-evident, by producing logical definitions that make
+things worse! When I said that the proposition I am thinking,
+therefore I exist is ‘the first and most certain thing to occur
+
+other than myself is unreal, while wondering what sort of
+thing I am. I can see clearly that I don’t have any of the
+properties that bodies have—I don’t have a spatial size or
+shape, and I don’t move—because those properties all fall
+on the supposed-to-be-unreal side of the line, whereas we’ve
+just seen that I can’t suppose that I am unreal. So I find
+that the only property I can ascribe to myself is thought. So
+2
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+to anyone who philosophizes in an orderly way’, I wasn’t
+meaning to deny that one must first know •what thought,
+existence and certainty are, and know •that it’s impossible
+for something to think while it doesn’t exist, and the like.
+But these are utterly simple notions, which don’t on their
+own give us knowledge of anything that exists; so I didn’t
+think they needed to be listed.
+
+existence than of the existence of anything else, but they
+haven’t seen that this certainty required that ‘they’ were
+minds. Instead of that, they thought that ‘they’ were only
+bodies—the bodies that they saw with their eyes and touched
+with their hands, the bodies that they wrongly credited with
+the power of sense-perception. That’s what prevented them
+from perceiving the nature of the mind.
+
+11. How our mind is better known than our body.
+
+13. The sense in which knowledge of everything else depends
+
+The knowledge of our mind is not simply prior to and (1) more
+certain than the knowledge of our body, but is also (2) more
+evident. [Descartes is here distinguishing (1) being rightly sure that P
+is true from (2) having a good grasp of why P is true.] To see why this
+is so, we need to take account of something that the natural
+light clearly shows us, namely that nothingness doesn’t have
+any attributes or qualities. This implies that wherever we
+find some attributes or qualities there must be some thing
+or substance that they belong to; and the more attributes
+we discover in a single •thing or substance the more brightly
+open is our knowledge of •it. Well, we find more attributes
+in our mind than in anything else, because anything that
+gives me knowledge of something other than myself has to
+lead me to a much surer knowledge of my own mind. For
+example, if I think that the earth exists because I touch it or
+see it, this very fact supports even more strongly my belief
+that my mind exists; because my basis for thinking that the
+earth exists is compatible with the earth’s not existing, but
+it isn’t compatible with my mind’s not existing! And that’s
+just one example out of many.
+
+on knowledge of God.
+
+So the mind, knowing itself but still in doubt about everything else, casts about for ways to extend its knowledge.
+•First, it finds within itself ideas of many things; and it can’t
+be mistaken about these ideas, as distinct from other things
+that may resemble them, ·i.e. other things that they may
+be ideas of ·. •Next, it finds ·within itself· certain ‘common
+notions’, from which it constructs various proofs; and while it
+is attending to them the mind is completely convinced of their
+truth. [The phrase ‘common notion’ is an unavoidable translation of
+Descartes’s communis notio. It’s a technical term, referring not to notions
+or ideas but to whole propositions, specifically ones that are elementarily
+
+For example, the mind
+contains ideas of numbers and shapes, and also has such
+common notions as:
+•If you add equals to equals the results will be equal;
+from which it’s easy to demonstrate that the three angles of
+a triangle equal two right angles and the like. So the mind
+will be convinced of the truth of this conclusion and others
+like it, for as long as it is attending to the premisses from
+which it deduced them. But it can’t attend to them all the
+time, and ·during times when it is not doing so, doubts can
+start up again·. At such a time, the mind can think like this:
+‘I still don’t know that I wasn’t created with a nature
+that would make me go wrong even in matters that
+and self-evidently true. See section 49.]
+
+12. Why not everyone knows this.
+Some philosophers don’t see this, but that’s because they
+haven’t done their philosophizing in an orderly way, and
+haven’t carefully enough distinguished the mind from the
+body. They may have been more certain of their own
+3
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+16. To some people it’s not obvious that God must exist;
+
+seem to me most evident, so it’s right for me to doubt
+such conclusions.’
+So it’s not possible for the mind to have certain knowledge
+·that will remain certain even when the basis for it isn’t being
+kept consciously and attentively in mind·—it’s not possible,
+that is, until the mind comes to know the Author of its being.
+
+that’s because of preconceived opinions.
+
+As I said, our mind will easily accept this if it first completely
+frees itself from preconceived opinions. We’re accustomed
+to distinguishing (1) essence from (2) existence—·e.g. distinguishing (1) ‘What makes a thing a triangle?’ from (2)
+‘Are there any triangles?’·—in connection with all things
+other than God. We are also accustomed to sheerly making
+up various ideas of things that don’t and never did exist
+anywhere. So at a time when we aren’t focussing on ·the
+idea of· the supremely perfect being, we can easily suspect
+that the idea of God may be one of the ideas that we chose to
+invent, or anyway one of the ones that don’t include existence
+in their essence.
+
+14. Necessary existence is included in our concept of God—
+from which it follow that God exists.
+
+Surveying its various ideas, the mind finds one that stands
+out from all the others—it’s the idea of a supremely intelligent, supremely powerful and supremely perfect being.
+And unlike other ideas that convey at most that the things
+they are ideas of may exist contingently, this idea of God is
+clearly seen by the mind to involve God’s necessarily existing
+eternally. ·There’s nothing weird or deviant about inferring
+God’s existence from the idea of God·. When the mind sees
+that the idea of triangle contains having-three-angles-equalto-two-right-angles, it becomes convinced that any triangle
+does have three angles equalling two right angles. And the
+mind is arguing in the same way when, seeing that the
+idea of supremely perfect being contains existing-necessarilyand-eternally, it concludes that a supreme being does exist
+·necessarily and eternally·.
+
+17. The greater the representative perfection in any of our
+ideas, the greater its cause must be
+
+When we reflect further on our ideas, we see that two or more
+ideas that aren’t very different considered merely as modes
+of thinking [= ‘psychological episodes’] may differ greatly in what
+they represent, i.e. what they are ideas of. And we also see
+that the greater the amount of representative perfection an
+idea contains, the more perfect its cause must be.
+[Descartes means by
+‘Idea x contains perfection P representatively’
+exactly the same as
+‘Idea x represents something as having perfection P’.
+
+15. None of our other concepts contains necessary existence
+in this way. All they contain is contingent existence.
+
+The mind will be encouraged to accept this result if it
+considers that it can’t find within itself any other idea that
+contains necessary existence in this way. And this leads it
+to grasp that the idea of a supremely perfect being, far from
+being something fanciful that the mind has invented, is ·a
+representation of· a true and immutable nature that can’t
+not exist, since necessary existence is contained within it.
+
+The terminology of adverbly containing P is potentially misleading; but
+we’ll see in a moment that Descartes needs it for the claim he is making
+
+Suppose someone has an idea of a highly
+intricate machine. What caused him to have it? That’s a
+legitimate question, which might be answered by:
+‘He once saw such a machine that had been made by
+someone else’, or ‘Being skilled in mechanics (or being
+just plain brilliant), he thought it up for himself.’
+here to be plausible.]
+
+4
+
+Principles of Philosophy
+
+René Descartes
+
+All the intricacy that the idea contains merely
+representatively—as in a picture—must be contained in
+its cause, whatever kind of cause it turns out to be; and it
+must be contained not merely •representatively but •actually,
+either straightforwardly or in a higher form.
+
+1: Human knowledge
+
+That’s because the natural light
+makes it very obvious not only that
+•nothing comes from nothing,
+but also that
+•a thing can’t have as its sole cause something that is
+less perfect than it is,
+and furthermore that •when we have within us an idea
+or likeness of something, there has to be somewhere an
+original that actually has all the perfections belonging
+·representatively· to the idea. And ·in the case of our idea of
+God· the ‘somewhere’ can’t be inside us, because we plainly
+don’t have the supreme perfections that our idea of God
+represents; so we’re entitled to conclude that what does have
+them is something distinct from ourselves, namely God. At
+any rate, we can certainly infer that God did have those
+perfections when he gave us this idea; which clearly implies
+that he still has them.
+be in conflict with the Latin.]
+
+[Three points about this paragraph: •Descartes adds ‘. . . at least in the
+case of the first and principal cause’. This seems to allow that an idea
+representing a certain perfection might be caused by something that has
+that perfection via a causal chain whose intermediate members don’t
+have it; but that would destroy Descartes’s argument; so perhaps it’s not
+what he meant, though it’s hard to read him any other way. Anyway,
+this is the only appearance of this thought, and we can safely forget it.
+•Descartes and others had the notion of something’s having a property
+‘in a higher form’ (Latin: eminenter) mainly so that, for example, God
+could cause something to be square or slippery without himself being
+straightforwardly square or slippery! •A widely misunderstood fact about
+Descartes’s terminology: He distinguishes
+(1) containing P representatively from (2) having P actually,
+and within the ‘actually’ category he distinguishes
+(2a) (actually) having P straightforwardly from (2b) (actually) having P in a higher form.
+
+19. Even if we don’t grasp God’s •nature, his •perfections
+
+The trouble comes from his using one adverb, formaliter, usually trans-
+
+have a more open place in our knowledge than anything else
+does.
+
+lated by ‘formally’, sometimes to express (2) as against (1) and sometimes
+to express (2a) as against (2b). In the present version, ‘formally’ will not
+
+Anyone who is used to pondering the idea of God and
+thinking about his supreme perfections will be sure enough
+about this, finding it obvious. We don’t completely get our
+minds around these perfections, because we who are finite
+couldn’t fully take in the nature of an infinite being; but
+we can understand them more vividly and clearly than we
+can any corporeal things. Why? Because they permeate our
+thought to a greater extent, being simpler and not obscured
+by any limitations.
+
+occur.]
+
+18.
+
+This yields a second reason for concluding that God
+exists.
+
+So here we are, having within us an idea of God, or a
+supreme being, and we’re entitled to ask ‘What caused us to
+have this idea?’ We find in the idea—·representatively in the
+idea·—such immeasurable greatness that we’re convinced
+that it must have been placed in us by something that truly
+possesses the sum of all perfections, i.e. by a God who really
+exists. [Regarding the choice between ‘God’ and ‘a God’, or between
+
+20. We didn’t make ourselves; God made us; so he exists.
+Some people don’t give any thought to this. Usually when
+someone has an idea of some intricate machine, he knows—
+·because he remembers·—where he got it from; but we have
+
+‘the supreme being’ and ‘a supreme being’: Latin has no such distinction.
+The choices made in this version express opinions about which is more
+suitable in the given case, but if you disagree in some cases, you won’t
+
+5
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+22. My way of coming to know of God’s •existence brings
+with it a knowledge of all his •attributes (or all that can be
+known by the natural power of the mind).
+
+always had our idea of God, so we have no memory of getting
+it from him, ·and one result is that for many people the
+question ‘Where did I get this idea from?’ doesn’t even arise.
+But it should arise!· So let us now go on to inquire into the
+source of our being, given that we have within us an idea of
+the supreme perfections of God. The natural light makes it
+blindingly obvious that a thing which recognizes something
+more perfect than itself didn’t bring itself into existence, for if
+it had done so it would have given itself all the perfections of
+which it has an idea. So the source of its being—·the cause
+of its existence·—must be something that does have within
+itself all these perfections, namely God.
+21. The fact that we last through time is sufficient to demon-
+
+This way of proving the existence of God—namely by means
+of the idea of God—has a great advantage: it gives us all the
+knowledge of what he is that our feeble nature is capable of.
+When we reflect on our in-born idea of God, we see that he is
+eternal, omniscient, omnipotent, the source of all
+goodness and truth, the creator of all things
+—in short, that he has every attribute that we can clearly
+recognize as involving some perfection that is infinite, i.e.
+not limited by any imperfection.
+23. God (1) is not corporeal, (2) doesn’t perceive through the
+
+strate the existence of God.
+
+senses as we do, and (3) doesn’t will the evil of sin.
+
+To see how compelling this proof is, you have only to think
+about the nature of time, i.e. the nature of things’ duration—
+specifically the fact that the parts of time are not mutually
+dependent . . . . From the fact that we exist now it doesn’t
+follow that we shall exist a moment from now, unless some
+cause—the very one that originally produced us—continually
+reproduces us, so to speak, i.e. keeps us in existence. We
+easily understand •that we have no power to keep ourselves
+in existence! Something else it is easy for us to see is •that
+he who has enough power to keep us in existence though we
+are distinct from him must be well equipped to keep himself
+in existence. Or rather (·to put it more accurately, and get
+away from this talk about keeping himself in existence·) he
+has so much power that he doesn’t need anything else to
+keep him in existence. He is, in a word, God.
+
+In many things we recognize some perfection while also
+finding them to be imperfect or limited in some way; and
+none of these can belong to God. (1) ·It’s a sort of perfection
+in bodies that they are extended in space·, but along with
+extension the nature of body includes divisibility, and since
+divisibility is an imperfection we can be sure that God isn’t
+a body. (2) It’s a sort of perfection in us that we have
+sense-perception, but this also involves the imperfection
+of being acted on by something else and thus being in states
+that depend on things other than ourselves. So there’s
+no question of supposing that God •perceives by means of
+senses ·like ours; our account of his mental activities must
+be confined to saying that· he •understands and •wills. Our
+understanding and willing involve operations that are, in a
+way, distinct one from another; but in God there is always a
+single identical and perfectly simple act by means of which
+he understands, wills and accomplishes everything all at
+once. (3) When I say ‘everything’ I mean all things: for God
+doesn’t will the evil of sin, which is not a thing.
+6
+
+Principles of Philosophy
+
+René Descartes
+
+24. In passing from knowledge of God to knowledge of his
+
+1: Human knowledge
+
+Would half an infinite line also be infinite?
+Is an infinite number odd or even?
+we shan’t bother to answer. No-one has any business
+thinking about such matters, it seems to me, unless he
+thinks his own mind is infinite! What we’ll do is this: faced
+with something that so far as we can see is unlimited in some
+respect, we’ll describe it not as ‘infinite’ but as ‘indefinite’.
+•An example: we can’t imagine a size so big that we can’t
+conceive of the possibility of a bigger; so our answer to the
+question ‘How big could a thing be?’ should be ‘Indefinitely
+big’. •Another: however many parts a given body is divided
+into, we can still conceive of each of those parts as being
+further divisible; so our answer to the question ‘How many
+parts can a body be divided into?’ is ‘Indefinitely many’. •A
+third: no matter how numerous we imagine the stars to be,
+we think that God could have created even more; so we’ll
+suppose that there’s an indefinite number of stars. And the
+same will apply in other cases.
+
+creation, we should bear in mind that he is infinite and we
+are finite.
+
+Since God alone is the true cause of everything that does
+or could exist, it’s clear that the best way to go about
+philosophizing [here = ‘doing philosophy or natural science’] is to
+•start from what we know of God himself and •try to derive
+from that knowledge an explanation of the things created by
+him. That’s the way to acquire the most perfect scientific
+knowledge, i.e. knowledge of effects through their causes.
+To minimize our chances of going wrong in this process, we
+must carefully bear in mind •that God, the creator of all
+things, is infinite, and •that we are altogether finite.
+25. We must believe everything that God has revealed, even
+if it’s more than we can get our minds around.
+
+·Here’s an example of the need for section 24’s reminder·:
+Suppose God reveals to us something about himself or others
+that is beyond the natural reach of our mind—such as the
+mystery of the Incarnation or of the Trinity—we won’t refuse
+to believe it although we don’t clearly understand it. And
+we won’t be at all surprised that our mental capacity is
+outstripped by much in the immeasurable nature of God and
+in the things created by him.
+
+27. The difference between the indefinite and the infinite.
+The point of using ‘indefinite’ rather than ‘infinite’ is to
+reserve ‘infinite’ for God, because he’s the only thing that our
+understanding •positively tells us doesn’t have any limits.
+The most we know about anything else is the •negative
+information that we can’t find any limits in it.
+
+26. We should steer clear of arguments about the infinite.
+When we see something as unlimited—e.g. the extension of
+the world, the division of the parts of matter, the number of
+the stars, and so on—we should regard it ·not as infinite but·
+as indefinite.
+
+28. It’s not the •final but the •efficient causes of created
+
+That will spare us tiresome arguments about the infinite.
+Given that we are finite, it would be absurd for us to ·try to·
+establish any definite results concerning the infinite, because
+that would be trying to limit it and get our minds around it.
+When questions such as these are asked:
+
+never explain natural things in terms of the purposes that
+God or nature may have had when creating them, [added in the
+French] and we shall entirely banish them from our natural
+science. Why? Because we shouldn’t be so arrogant as to
+think that we can share in God’s plans. We should bring
+
+things that we must investigate.
+[In contemporary terms, that is equivalent to saying ‘What we must
+investigate are not created things’ •purposes but their •causes’.] We’ll
+
+7
+
+Principles of Philosophy
+
+René Descartes
+
+him in only as the efficient cause of everything that happens.
+He has allowed us to have some knowledge of his attributes,
+and we’ll find that, starting from that knowledge and using
+our God-given natural light, we can draw conclusions about
+·the causation of· events that we perceive by our senses. . . .
+
+1: Human knowledge
+
+asleep—then provided we separate it from what is confused
+and obscure we’ll easily recognize which are the aspects of it
+that may be regarded as true. I needn’t go on about this here,
+because I have already dealt with it in the Meditations; and
+a more exact treatment of the topic would require knowledge
+of things that I’ll be saying later on.
+
+29. God is not the cause of our errors.
+
+31. Our errors, considered in relation to God, are merely
+
+The first attribute of God that we must attend to is his being
+supremely truthful and the giver of all light. So ‘God might
+deceive us’ is a flat-out contradiction. And the same holds
+for the supposition that he might positively cause the errors
+that our experience shows us we are prone to. The •ability
+to deceive others may be seen as a sign of intelligence in a
+•man, but the •wish to deceive can only come from malice,
+or from fear and weakness, so it can’t be a wish that •God
+has.
+
+negations; considered in relation to ourselves they are privations.
+
+Although God isn’t a deceiver, we often fall into error. To
+understand the origin and cause of our errors, and to guard
+against them, we need to realize that they depend not so
+much on our intellect as on our will. Also, an error isn’t a
+·positive· thing that couldn’t have come into existence unless
+God concurred in its doing so. Considered in relation to
+God, an error is a mere •negation, ·something that God did
+not prevent·, whereas in relation to ourselves, errors are
+privations, ·i.e. lacks of something that we ought to have·.
+
+30. It follows that everything that we vividly perceive is true;
+and this removes the doubts mentioned earlier.
+[Descartes includes under ‘perception’ not only perceiving by the senses
+but any kind of propositional thinking.] So the light of nature—our
+
+[•‘Privation’ was a standard technical term. Example: not-being-able-tosee is a mere negation in a turnip, a privation in a blind man. •The root
+
+God-given faculty of knowledge—can’t shine on any object
+that isn’t true to the extent that this light reaches it, i.e. to
+the extent that it is vividly and clearly perceived. If the faculty
+that God gave us was so distorted that it took falsehoods to
+be truths ·even when we were using it properly·, God would
+merit the label ‘deceiver’! This disposes of the worst of the
+doubts ·that I discussed in sections 4–5·, namely the one
+arising from the fear that for all we know we might find
+something to be utterly obvious and yet be wrong about it.
+Indeed, this argument ·from section 29· easily demolishes
+all the other reasons for doubt that I have mentioned. earlier.
+Mathematical truths should no longer be suspect, because
+they’re utterly clear to us. As for our senses: if we notice
+anything here that is vivid and clear—whether we’re awake or
+
+sense of ‘concur’ is ‘go along with’ or ‘knowingly not prevent’, but on this
+occasion Descartes must mean something stronger than that.]
+
+32. We have only two ways of thinking: •perceiving with the
+intellect, and •willing.
+
+The kinds of thinking that we experience within ourselves
+can be classified under two general headings: •perception,
+or the operation of the intellect, including sensory perception, imagination and pure understanding, and •volition,
+including desire, aversion, assertion, denial and doubt.
+33. We don’t commit errors except when make judgments
+about topics that we haven’t looked into sufficiently.
+
+Now, when we perceive something [see note at top of section 30],
+so long as we don’t assert or deny anything about it, we avoid
+8
+
+Principles of Philosophy
+
+René Descartes
+
+error—obviously. And we equally avoid error when we confine
+our assertions or denials to what we vividly and clearly
+perceive should be asserted or denied. Error occurs only
+when we make a judgment about something without having
+an accurate perception of it—a common enough event!
+
+1: Human knowledge
+
+author of his actions and deserving of praise for what he
+does. We don’t praise automata for moving in exactly the way
+they were designed to move, because it’s necessary for them
+to do that. We do praise the designer for doing a good job,
+because in building the automata he was acting freely, not
+out of necessity. By the same principle, when we embrace
+something true, that’s much more to our credit if we do it
+voluntarily than it would be if we couldn’t help embracing it.
+
+34. Making a judgment requires •will as well as •intellect.
+In order to make a judgment we must of course have some
+perception, so the intellect has to be involved; but the
+judgment itself—the assent—is an act of the will. Now, a sort
+of judgment can be made even when there is no complete
+and exhaustive perception of whatever-it-is, because we can
+assent to many things that we know only in a very obscure
+and confused manner.
+
+38. Our falling into error is bad behaviour, not the result of a
+bad nature. The faults of subordinates can often be attributed
+to their masters, but not when the master is God.
+[Throughout this section, ‘a cause’ could instead be ‘the cause’; Latin
+doesn’t distinguish them.] Our falling into error is a defect in
+
+how we act, how we use our freedom; it’s not a defect in our
+nature. Whether we judge correctly or incorrectly, our nature
+remains the same. It’s true that God could have given us
+intellects so sharp that we never believed anything false, but
+we have no right to demand this of him. When one us men
+could but doesn’t prevent some evil, we call him a ‘cause’
+of the evil; but that way of talking about humans doesn’t
+carry over to God; we mustn’t regard him as a cause of our
+errors just because he could have but didn’t bring it about
+that we never erred. Men were given power over one another
+to use in discouraging one another from evil; but God’s
+power over all men is both absolute and totally free. [Those
+
+35. The will has a wider scope than the intellect does, and
+that’s why error occurs.
+
+The perception of the intellect extends only to the few things
+that come before it, and they are very few. The will, on
+the other hand, can be called ‘infinite’ in a certain sense.
+That is because we realize that we could will anything that
+anyone could will, even God with his immeasurable will. So
+we have plenty of scope for •willing where we don’t vividly
+•perceive—no wonder we go wrong!
+36. Our errors can’t be imputed to God.
+It must emphatically not be supposed that God is the author
+of our errors because he didn’t give us an omniscient intellect.
+It stands to reason that a created intellect is finite, and that
+a finite intellect has a limited scope.
+
+last four words gesture towards a view that Descartes expresses openly
+elsewhere, namely that God’s actions are free even from the ‘constraint’ of
+there being better reasons for him to act in one way rather than in some
+
+37.
+
+other.] So we should thank him warmly for the goods he has
+so lavishly bestowed on us, instead of unjustly complaining
+that he didn’t give us everything that he could have given us.
+
+The highest perfection of man is that he acts freely
+or voluntarily, and that’s what makes him deserve praise or
+blame.
+
+It is part of the very nature of the will to have a very broad
+scope; and it’s a supreme perfection in man that he acts
+voluntarily, i.e. freely; this makes him in a special way the
+9
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+nature· that we see it as clearly and comprehend it as fully
+as we do anything. When something is as intimately and
+securely grasped as that, it would be ridiculous to doubt
+it just because we don’t grasp something else—·namely its
+relation to God’s powers of knowledge·—that we know must
+by its very nature be beyond our comprehension.
+
+39. It’s self-evident that there is free will.
+There’s freedom in our will, and we often have the power to
+give or withhold our assent at will—that’s so obvious that
+it must be regarded as one of the first and most common
+notions [see note in section 13] that are innate in us. It showed
+up in sections 5–6 where, trying to doubt everything, we went
+so far as to entertain the thought of a supremely powerful
+creator who was trying to deceive us in every possible way.
+Even in the context of that supposition, we sensed within
+ourselves a freedom strong enough to enable us to abstain
+from believing anything that wasn’t quite certain or fully
+examined. And what we saw to be beyond doubt even then
+is as self-evident and as transparently clear as anything can
+be.
+
+42. Although we don’t want to go wrong, nevertheless we go
+wrong by our own will.
+
+Knowing that all our errors depend on the will, you may find
+it surprising that we should ever go wrong, because no-one
+ever wants to go wrong. But
+(1) wanting to go wrong
+is one thing, and
+(2) choosing to assent to something that is in fact
+wrong, though one doesn’t realize it
+is quite another. No-one does (1), but (2) happens often
+enough with almost everyone. In fact the reason why people fall into error is that they are eager to find the truth
+and ignorant of the right way of finding it, which leads to
+their passing judgment on things that they don’t properly
+understand.
+
+40. It is also certain that everything was preordained by God.
+Now that we have come to know God, and to see in him a
+power so immeasurable that we think it downright sinful
+to suppose that we could ever do anything that God hadn’t
+preordained, we can easily get ourselves into a tangle if we
+try to reconcile •this divine preordination with •the freedom
+of our will, holding both things in our mind at once..
+
+43. We never go wrong when we assent only to things that
+we vividly and clearly perceive.
+
+41. How to reconcile the freedom of our will with divine
+preordination.
+
+But if we assent only to what we vividly and clearly perceive,
+we’ll certainly never take a falsehood to be a truth. Why
+‘certainly’? Because God is not a deceiver, so the faculty
+of •perception [see note in section 30] he gave us can’t have a
+bias towards to falsehood; and that holds for our faculty of
+•assent (·i.e. our faculty of judgment ·) too, provided it doesn’t
+stray from what we have a bright, open perception of. Even if
+there were no proof of this, nature has shaped our minds in
+such a way that when we perceive something in that fashion
+we spontaneously assent to it and can’t doubt its truth.
+
+But we’ll get out of these difficulties if we bear in mind
+that our mind is finite, and that God has infinite power
+by which he not only knew from eternity everything that
+was or could be going to happen, but also willed it and
+preordained it. We can know enough about this power to
+perceive vividly and clearly that God has it; but we can’t get
+our minds around it well enough see how it leaves men’s
+free actions undetermined [here = ‘not settled in advance’]. As for
+our own liberty—our ability at a given moment to go this
+way or that—we’re so intimately aware of this ·aspect of our
+10
+
+Principles of Philosophy
+
+René Descartes
+
+44. When we assent to something P without having a brightly
+
+1: Human knowledge
+
+perception of it is very vivid; but it isn’t always clear, because
+people often get this perception muddled with an obscure
+judgment they make about something that they think exists
+in the painful spot—something they think resembles the
+sensation of pain. But in fact it is the sensation alone that
+they perceive vividly. Hence a perception can be vivid without
+being clear, but it can’t be clear without being vivid.
+47. In order to correct the prejudices [see note in section 1] of
+
+open view of P’s truth, this is a misuse of our ·faculty of·
+judgment, even if P happens to be true. Such an assent comes
+from our imagining that we had a good enough view of P’s
+truth on some previous occasion.
+
+It is also certain that when we assent to something without
+perceiving the reason for it, then either •we fall into error or
+•we stumble into something true but merely by accident, so
+we can’t be sure that we aren’t in error. The light of nature
+tells us not to make judgments about things we don’t know,
+which is why we don’t often assent to something that we are
+aware of not perceiving. What does very often lead us into
+error is this: We have a proposition committed to memory
+along with the belief that we did once perceive it ·adequately·;
+on the strength of that belief we assent to the proposition
+now, just as we would if we fully perceived it now; though in
+fact we have never perceived it, ·and it is false·.
+
+our early childhood we must consider the simple notions and
+what elements in each of them are vivid.
+
+In our childhood the mind was so immersed in the body
+that it perceived many things vividly but nothing clearly. Yet
+the mind made judgments about many things, and that’s
+the origin of the many prejudices that most of us cling to
+throughout life. To enable us to get rid of them, I shall
+here briefly list all the simple notions that are the basic
+components of our thoughts; and in each case I’ll distinguish
+the vivid elements from those that are obscure or liable to
+lead us into error.
+
+45. What ‘vivid perception’ means, and what ‘clear perception’ means.
+
+[It is time to confront the fact that Descartes’s adjectives
+
+Many people, indeed, never perceive anything accurately
+enough to be able to make a judgment about it with certainty. For a perception to support a certain and indubitable
+judgment, it needs to be not merely •vivid but also •clear. I
+call a perception ‘vivid’ when it is present and accessible to
+the attentive mind—just as we say that we see something
+vividly when it is present to the eye’s gaze and stimulates it
+with a sufficient degree of strength and accessibility. I call
+a perception ‘clear’ if, as well as being vivid, it is so sharply
+separated from all other perceptions that every part of it is
+vivid.
+
+clarus and distinctus
+(and their French equivalents
+clair and distinct),
+translated here by
+‘vivid’ and ‘clear’
+respectively, are handled differently in every other English translation,
+and by all the Descartes scholars who write in English. It has been
+assumed by all these that the right translation is
+‘clear’ and ‘distinct’
+
+46. The example of pain shows that a perception can be vivid
+
+contexts where distinctus occurs without clarus, it is natural and quite
+
+without being clear, but can’t be clear without being vivid.
+
+usual to translate it as ‘clear’. (2) Descartes’s separate explanations of
+
+For example, when someone feels an intense pain, his
+
+the two words make much better sense with the present translation than
+
+respectively.
+
+The physical similarity of the words favours the usual
+
+translation, but all the adult considerations go against it. (1) In ordinary
+English, there’s no clear difference between ‘clear’ and ‘distinct’ (except
+in the notion, irrelevant here, of x’s being distinct from y).
+
+11
+
+In many
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+divisibility of component parts and the like. But we also
+experience within ourselves certain other items that relate
+not to the mind alone or to the body alone, but to the close
+and intimate union of our mind with the body (I’ll explain
+this later). This list includes: (2) •appetites like hunger
+and thirst; •emotions or passions of the mind that don’t
+consist of thought alone, such as the emotions of anger, joy,
+sadness and love; and •all the sensations, such as those of
+pain, pleasure, light, colours, sounds, smells, tastes, heat,
+hardness and the other tactile qualities.
+
+with the usual one. •Try for yourself how section 45 reads when you
+put ‘clear’ for ‘vivid’. •Repeat the experiment with section 46, and ask
+yourself: What sane man could think there is always something very
+clear about pain? (3) In sections 47, 68 and 74 Descartes treats clarus
+and obscurus as opposites; remember that obscurus means ‘obscure’ in
+the sense of dark. The vivid/dark or bright/dark contrast makes better
+sense than clear/dark. Quite generally, just as Descartes customarily
+writes clarus and distinctus in that order, he customarily writes obscurus
+and confusus in that order (section 30 is an exception; see also 4:203).
+(4) The meaning of clarus is often—and the meaning of its French cousin
+clair is always—something like ‘vivid’. You probably know this already:
+
+49. It isn’t possible to give a similar list of eternal truths,
+
+au clair de la lune means ‘in the bright moonlight’; lumière claire is bright
+
+but we don’t need one.
+
+light.—It doesn’t matter greatly, because except for these three sections
+
+Everything that I listed in section 48 is classified by us either
+as (1) a thing or as (2) a quality or mode of a thing. But ·other
+items that we perceive fall into neither of those categories·.
+When we recognize that
+•It is impossible for something to come from nothing,
+we don’t classify the proposition Nothing comes from nothing
+as (1) a really existing thing, or even as (2) a mode ·or quality·
+of a thing, but as (3) an eternal truth that exists ·only· in
+our mind. Such truths are called ‘common notions’ [see note
+in section 13] or ‘axioms’. Here are some examples:
+•It is impossible for a thing to be and not be at the
+same time,
+•What is done can’t be undone,
+•While someone is thinking he can’t not exist,
+and there are ever so many more. It would be hard to list
+them all; but ·without the help of any such list· we can’t fail
+to know them when they come up in our thought, provided
+we aren’t blinded by preconceived opinions.
+
+of the Principles Descartes always treats clarus et distinctus as a single
+lump, not distinguishing its separate parts. In sections 22 and 25, and
+also in 2:1, clare is translated by ‘clearly’ because there is no stylistically
+acceptable alternative. Other uses of ‘clear(ly)’ in this version translate
+disinctus or some other word, but never clarus.]
+
+48. The items that we can have perceptions of may be regarded either as (1) things or (2) states or properties of things
+or as (3) eternal truths. This section lists the things and some
+of the properties.
+We classify the items we have perceptions of into (1) things,
+(2) states or properties of things and (3) eternal truths that
+
+don’t exist outside our thought. . . . I recognize only two basic
+classes of things:
+(1a) intellectual or thinking things, i.e. ones having to
+do with mind or thinking substance;
+(1b) material things, i.e. ones having to do with extended substance or body.
+We attribute to thinking substance: (1a) perception, volition
+and every specific kind of perceiving and of willing. We
+attribute to extended substance: (1b) size (i.e. extension
+in length, breadth and depth), shape, motion, position,
+
+50. Eternal truths are vividly perceived, but not by everyone
+(because of preconceived opinions).
+In the case of these common notions, there is no doubt that
+12
+
+Principles of Philosophy
+
+René Descartes
+
+they can be vividly and clearly perceived; otherwise they
+wouldn’t merit the title ‘common notions’. Some of them,
+actually, don’t merit it as well as the rest do, because not
+everyone perceives them as well as they do the rest. It’s not
+that one man’s faculty of knowledge extends more widely
+than another’s, I think, but just that •the common notions
+in question conflict with the preconceived opinions of some
+people, making it harder for them to grasp •them. But those
+same notions are seen as utterly obvious by people who are
+free from such preconceived opinions.
+
+1: Human knowledge
+
+notion that nothingness doesn’t have any attributes, i.e. any
+properties or qualities. If we see that we are in the presence
+of some attribute, this common notion entitles us to infer
+that we are also in the presence of some existing thing or
+substance that has the attribute.
+53. Each substance has one principal attribute; (1) for •mind
+it is the attribute of •thought, (2) for body it is •extension.
+
+A substance can be known through any attribute at all; but
+each substance has •one principal property that constitutes
+its nature and essence, all its other properties being special
+cases of that. (1) The nature of corporeal substance is extension in length, breadth and depth; and any other property a
+body has presupposes •extension as merely a special case
+of •it. For example, we can’t make sense of shape except
+in an extended thing, or of motion except in an extended
+space. (2) The nature of thinking substance is thought; and
+anything else that is true of a mind is merely a special case of
+that, a way of thinking. For example, we can make sense of
+imagination, sensation and will only in a thinking thing, But
+we can make sense of extension without bringing in shape or
+movement, and to make sense of thought without bringing
+in imagination, sensation, or the like. Anyone who thinks
+hard about these matters will see that this is so.
+
+51. What is meant by ‘substance’—a term that doesn’t apply
+in the same sense to God and his creatures.
+
+Regarding the items that we classify as ‘things’ or ‘qualities
+of things’, it is worthwhile to examine them one by one. All
+we can mean by ‘substance’ is ‘thing that exists in such a
+way that it doesn’t depend on anything else for its existence’.
+Actually, there’s only one substance that can be understood
+to depend on nothing else, namely God. We can see that all
+the other substances can exist only with God’s help. So the
+term ‘substance’ doesn’t apply in the same sense to God and
+to other things—meaning that no clearly intelligible sense of
+the term is common to God and to things he has created.
+52. (1) The term ‘substance’ applies in the same sense to
+
+54. How we can have vivid and clear notions of •thinking
+
+mind and to body. (2) How a substance itself is known.
+(1) As for •corporeal substance and mind (i.e. created
+•thinking substance), they can be understood in terms of
+
+substance and of •corporeal substance, and also of •God.
+
+Thus we can easily have two vivid and clear notions or
+ideas, one of •created thinking substance and the other of
+•corporeal substance, provided we are careful to distinguish
+all the attributes of thought from the attributes of extension.
+We can also have a vivid and clear idea of •uncreated and
+independent thinking substance, i.e. of God. ·There are
+two mistakes we must be careful not to make regarding
+this·. •We must avoid supposing that our idea adequately
+
+a single common concept, namely this one: things that
+don’t depend for their existence on anything except God. (2)
+However, we can’t initially become aware of a substance
+merely from its being something that exists, because the
+mere fact of its existence doesn’t have any effect on us. But
+we can easily come to know ·that we are in the presence of· a
+substance by one of its attributes. This involves the common
+13
+
+Principles of Philosophy
+
+René Descartes
+
+represents the whole of God’s nature; and •we must confine
+our idea to what we clearly perceive to belong to the nature of
+a supremely perfect being, not cramming into it any invented
+features beyond the ones that really belong there. Do we
+really have any idea of God? If you deny that we do, you’ll
+have to maintain that there’s absolutely no knowledge of God
+in the minds of men.
+
+1: Human knowledge
+
+are speaking correctly we say that God has ‘attributes’ but
+not that he has any ‘modes’ or ‘qualities’, because it doesn’t
+make sense to suggest that God might alter. . . .
+57. Some attributes are in things and others in thought.
+What duration and time are.
+Some attributes or modes are in the things they are said to be
+attributes or modes of, while others are only in our thought.
+[Descartes goes on to differentiate duration (which is in the
+thing that endures) from time (which is in our thought).
+His explanation and illustration of this is unmanageable,
+because it runs together three different ideas about ‘time’.
+(1) ‘Time’ stands for
+•measures of stretches of duration.
+It seems correct to say that although the duration of a
+running race (for example) is a mode of or fact about the race
+itself, the race’s occupying less than four minutes is a fact
+about how the race relates to our measuring system, which
+is in a straightforward sense ‘in our mind’. (2) ‘Time’ stands
+for
+•measured stretches of duration.
+This is a more plausible account of the meaning of ‘time’,
+but it doesn’t imply that time is ‘in our minds’. (3) What
+Descartes actually says is that time is ‘the measure of
+movement’; this seems to make ‘time’ synonymous with
+‘speed’. Somehow, it seems, a curdled mixture of (1) and (3)
+lies behind Descartes’s inscrutable illustration: ‘If two bodies
+are moving for an hour, one slowly and the other quickly, we
+don’t reckon the amount of time to be different in the two,
+though the amount of movement may be much greater.’ And
+a mixture of (1) and (2) probably explains his saying ‘When we
+measure the duration of all things . . . . we call this duration
+“time”. Yet this doesn’t add anything to duration, taken in
+its general sense, except for a mode of thought.’ The clearly
+true thing in this section is the statement that:] we assign
+
+55. How we can also have a clear understanding of duration,
+order and number.
+[This version of section 55 is rather free, but it expresses Descartes’s line
+of thought faithfully enough.] We’ll have a very clear understanding of (1) duration, (2) order and (3) number, provided we
+
+don’t attach any concept of substance to them, i.e. as long
+as we don’t think of duration, order and number as things.
+When we think about the durations that things have, or their
+orders, or their numbers, our thoughts are or should be of
+the types:
+(1) that iceberg lasted for three months,
+(2) the house is between the meadow and the road,
+(3) there are three ships this side of the horizon.
+This is to treat duration etc. as modes of substances—as
+adjectival on the substances, rather than being substances
+themselves.
+56. What modes, qualities and attributes are.
+The term ‘mode’ as used here means exactly the same as
+‘attribute’ or ‘quality’, ·but their usage differs, as follows·. We
+use ‘mode’ when speaking of a substance as being affected or
+altered (·if you boil some water its heat is a mode of it·). We
+use ‘quality’ when speaking of facts about a substance that
+make it belong to such and such a kind (·water’s fluidity is a
+quality of it·). And we use ‘attribute’ when talking in a more
+general way about what there is to a substance (·water’s
+being extended in space is an attribute of it·). When we
+14
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+temporal measures to things and processes by comparing
+their duration with the duration of the greatest and most
+regular motions that give rise to years and days. [For a straight
+
+other· triangle is moving, that is an accident of it. Hence five
+universals are commonly listed: genus, species, differentia,
+property and accident. [In this section, Descartes is using ‘property’
+
+translation of this section, by John Cottingham, see page 21.]
+
+(Latin proprium) in a technical sense: a ‘property’ of the Fs, in this sense,
+is something that follows rigorously from the definition of F without itself
+
+58. Number and all universals are simply modes of thinking.
+In the same way, number, when it is considered simply in
+the abstract or in general, and not in any created things, is
+merely a mode of thinking; and the same applies to all the
+other ‘universals’, as we call them.
+
+being included in the definition. And an ‘accident’ of an F is a feature of
+it that it doesn’t share with all Fs.]
+
+60. What real distinctness is.
+·My next topic connects with what I have just been talking
+about, namely number ·. For there to be a number of things,
+the things must be distinct from one another; and distinctness is of three kinds: x may be •really distinct from y, x may
+be •modally distinct from y, or there may be a •distinctness of
+reason between x and y. [In this context, remember that ‘real’ comes
+from Latin res = ‘thing’.] Strictly speaking, it’s only substances
+that can be really distinct from one another. If we can vividly
+and clearly understand substance x apart from substance y,
+that tells us that x is really distinct from y. ·How does it tell
+us that?· Well, when we come to know God we become certain
+that he can bring about anything that we clearly understand;
+so that even if (for example) we don’t yet know for sure that
+there exists any extended or corporeal substance, our having
+a ·clear· idea of such a substance enables us to be certain
+that ·God could create it, and thus that· it could exist. ·And
+now for some examples involving real distinctness·.We can
+be certain that if matter exists then every single part of a
+body that our thought singles out is really distinct from the
+other parts of the same substance. ·In case it’s not obvious,
+here is the reasoning behind that claim. Given any part x of
+any material thing y, we can clearly understand a state of
+affairs in which x exists while the rest of y doesn’t; so God
+could bring it about that x existed while the rest of y didn’t;
+so x is really distinct from all the other parts of y·. Similarly,
+just from the fact that I ·clearly· understand myself to be
+
+59. How universals arise. The five common ·kinds of· universals: genus, species, differentia, property, accident.
+The whole source of these •universals is this: we use a
+
+single idea for thinking of all individual items that resemble
+each other ·in some one respect·, that we can apply a single
+word to all the things that are represented by that idea, this
+word being a •universal term. When we see two stones, for
+example, and direct our attention not to their nature but
+merely to the fact that there are two of them, we form the idea
+of the number that we call ‘two’; and when we later see two
+birds or two trees, and attend not to what they are but only
+to there being two of them, we return to that same idea. . . .
+Similarly, when we see a figure composed of three lines, we
+form an idea of it that we call the idea of triangle, and we go
+on to use that as a universal idea with which we represent
+all figures composed of three lines, ·treating triangles as a
+genus·. Then we notice that some triangles have one right
+angle while others don’t, and form the universal idea of
+right-angled triangle; since this idea is a special case of the
+preceding one, it is called a species. What distinguishes this
+species from the rest of the genus is right-angledness, which
+is the differentia. Having one side whose square equals the
+sum of the squares on the other two sides is a property of
+right-angled triangles. Finally, if some right-angled ·or any
+15
+
+Principles of Philosophy
+
+René Descartes
+
+a thinking thing and can have a ·clear · thought of myself
+as not involving any other substance, whether thinking or
+extended, it is certain that I as a thinking thing am really
+distinct from every other thinking substance and from every
+corporeal substance. And of course this applies equally to
+you and to everyone. We might suppose this:
+God has joined some corporeal substance to a thinking substance like you or me, joining them as closely
+and tightly as any two things could possibly be joined,
+compounding them into a unity.
+That could happen, but the soul and the body would still
+be really distinct from one another. However closely God
+had united them, he couldn’t lay aside his previous power to
+separate them, keeping one in existence without the other;
+and things that God has the power to separate, or to keep in
+existence separately, are really distinct.
+
+1: Human knowledge
+
+can arrive at knowledge of x apart from y, and of y apart
+from x, whereas we can’t know either of them apart from the
+substance that has them; if a cubic stone is moving, I can
+understand the cubic shape without the movement, and the
+movement without the shape; but I can’t understand either
+that movement or that shape without the substance of the
+stone. . . .
+62. What distinctness of reason is.
+Finally, distinctness of reason ·can be either of two things·.
+(1) There is distinctness of reason between a substance and
+some attribute of it without which the substance is unintelligible. Consider, for example, •you and your attribute of
+•lasting through time. You can’t exist without that attribute
+(for you to stop lasting through time is for you to go out of
+existence), so there is distinctness of reason between you and
+that attribute of yours. Quite generally, we recognize cases of
+this kind of distinctness through finding that we can’t form
+a vivid and clear idea of the substance if we exclude from it
+the attribute in question. (2) There is distinctness of reason
+between any two such attributes of a single substance. What
+shows us that we are dealing with a distinctness of reason
+of this kind is our inability to perceive vividly the idea of one
+of the two attributes separated from the other. . . .
+
+61. What modal distinctness is.
+There are two kinds of distinctness that could be called
+‘modal’. (1) When a given substance has a certain mode ·or
+quality or property·, the mode is distinct from the substance—
+·for example, you are clever but your cleverness is not the
+same thing as you·. It’s a characteristic mark of this kind of
+distinctness between x and y that x can exist without y but
+y can’t exist without x. ·We can. for example, have a clear
+understanding of a state of affairs in which you exist and are
+not clever, but we can’t make sense of the supposition that
+your cleverness might exist while you don’t·. Thus the shape
+and movement of a body are modally distinct from the body
+itself; and affirmation and recollection are modally distinct
+from the mind. (2) One mode of a given substance is distinct
+from the other modes of the same substance. ·For example,
+you are clever and good-tempered, and these are two modally
+distinct qualities that you have·. It’s a characteristic mark
+of this kind of modal distinctness between x and y that we
+
+63. How thought and extension can be clearly recognized as
+constituting the nature of mind and of body.
+
+Thought and extension can be regarded as constituting
+•the nature of thinking substance and •the nature of
+bodily substance;
+and then they have to be considered as
+•thinking substance itself and •extended substance
+itself,
+that is, as
+•mind and •body.
+16
+
+Principles of Philosophy
+
+René Descartes
+
+1: Human knowledge
+
+as motion is concerned, we’ll do best ·at this stage· to think
+of it as mere change of place, without inquiring into the force
+that produces the change (though I’ll try to explain this later
+in the appropriate place).
+
+This will give us a very vivid and clear understanding of
+them. Actually, extended substance and thinking substance
+are easier for us to understand than is plain substance with
+‘thinking’ or ’extended’ left out. It’s hard for us to grasp
+the abstract notion of substance with thought or extension
+sifted out from it, precisely because these notions are only
+distinct-in-reason from the notion of substance. A concept
+isn’t made any clearer by our leaving things out of it; what
+makes it clearer ·to us· is our carefully distinguishing what
+we include from what we leave out.
+
+66. How sensations, emotions and appetites can be vividly
+known, though we’re often wrong in our judgments about
+them.
+
+There remain sensations, emotions and appetites,which can
+be vividly perceived provided we’re careful to include no more
+in our judgments about them than •what is strictly contained
+in our perception—i.e. •what we have inner awareness of.
+But it’s hard to conform to this rule, at least with sensations,
+because ever since our early childhood we have all judged
+that our sense-perceptions are of things that •exist outside
+our minds and •closely resemble our perceptions. For example: whenever we saw a colour we supposed we were seeing
+a thing located outside us and closely resembling the idea of
+colour that we were experiencing within us. And because we
+had a habit of making such judgments we thought we saw
+vividly and clearly—so much so that we took it for something
+certain, something that couldn’t be doubted.
+
+64. How thought and extension may also be clearly recognized as modes of a substance.
+
+Thought and extension can also be taken as modes of a substance, because one mind can have many different thoughts,
+and one body can be extended in many different ways (e.g.
+through changes in shape). [Descartes goes on to insist that
+thought be seen as something that is ‘in’ the substantial
+mind, rather than being thought of as itself a substance; and
+similarly for extension and the substance that has it. Then:]
+If we tried to consider thought and extension apart from the
+substances in which they inhere—·the substances that have
+them·—we would be regarding them as things that subsisted
+in their own right, and would thus be confusing the ideas of
+a mode and a substance.
+
+67. We often make mistakes, even in our judgments about
+pain.
+
+Everything of which we have sensory awareness is subject to
+this same kind of mistake—even pleasure and pain! We don’t
+suppose that pleasures and pains exist outside us, but we
+do think of them as existing not purely in our mind but also
+in the hand or foot or in some other part of our body. [In this
+
+65.
+
+How the modes of thought and extension are to be
+known.
+
+There are various modes of thought such as understanding,
+imagination, memory, volition, and so on; and there are
+various modes of extension . . . . such as different shapes,
+lay-out of parts and movements of parts. And, just as
+with thought and extension themselves, we’ll have our best
+understanding of these more detailed modes if we regard
+them simply as modes of the things that have them. As far
+
+section ‘pleasure’ translates titillatione, which refers to such pleasures as
+that of slaking thirst with cold water, relieving an itch with scratching,
+and the like—i.e. to pleasures associated with specific parts of the body.
+In section 71, where the topic is pleasure in relation to the body, but not
+to specific parts of the body, Descartes uses a different word, voluptas.]
+
+17
+
+Principles of Philosophy
+
+René Descartes
+
+But our feeling a pain as though it were in our foot doesn’t
+make it certain that the pain exists outside our mind and in
+the foot, any more than our seeing light as though it were
+in the sun makes it certain that the light exists outside us
+and in the sun. Both these beliefs are mere carry-overs from
+early childhood, as will become obvious below.
+
+1: Human knowledge
+
+and our knowledge of
+•the features that must be referred to the senses (as I
+have just pointed out)—colours, pain, tastes, smells
+and so on.
+It’s true that when we see a body, its visible colour does as
+much to convince us of its existence as its visible shape;
+but we have a much better grasp of what it is for a body to
+have a shape than we have of what it is for it to be coloured.
+Incidentally, when I write about ‘motion’ I mean movement
+from place to place. Philosophers who have fancied that
+there are other kinds of motion have merely made the nature
+of motion less intelligible to themselves.
+
+68. How to distinguish, in these matters, •what we brightly
+and openly know from •what can lead us astray.
+In order to distinguish what is vivid ·or brightly lit· in this
+context from what is obscure ·= dark·, we must pay special
+attention to this: when pain and colour and their like are
+regarded merely as sensations or thoughts, they are vividly
+and clearly perceived; but when they are considered as real
+things existing outside our mind, we haven’t the faintest idea
+of what sort of things they are. If someone says ‘I see red in
+that cherry’ or ‘I feel pain in my wrist’, all he is saying, really,
+is that he sees or feels something there of which he is wholly
+ignorant—which amounts to saying that he doesn’t know
+what he is seeing or feeling! If he isn’t thinking hard enough,
+he may well convince himself that he knows something about
+what he sees or feels, because he may think it is something
+like the sensation of colour or pain that he experiences within
+himself. But if he examines the nature of whatever it is that
+the sensation of colour or pain represents as existing in the
+cherry or his wrist, he’ll realize that he is wholly ignorant of
+it.
+
+70. There are two ways of making judgments about senseperceptible things: one enables us to avoid error, the other
+doesn’t.
+
+It is evident that when we say that we perceive colours in
+objects, this amounts to saying that we perceive something in
+the objects whose nature we don’t know but which produces
+in us a certain very obvious and easily recognizable sensation
+that we call the sensation of colour. But when we make our
+judgment, either of two very different things can be going
+on. (1) If we merely judge that there is in the objects (i.e. in
+the things, whatever they turn out to be, that our sensations
+come from) something whose nature we don’t know, there’s
+no error in that. Indeed it’s a shield against error, because
+our recognition that we are ignorant of something reduces
+the chances of our making any rash judgment about it. (2)
+But the scene changes when we suppose that we perceive
+colours in the objects. Of course, we don’t really know what it
+is that we’re calling a colour; and we can’t make any sense of
+the idea of something in the objects resembling our sensation.
+But we ride rough-shod over this fact; ·and there’s another
+fact that encourages us in our error·: There are plenty of
+features—size, shape and number etc.—that actually are or
+
+69. How we know •size, shape etc. is quite different from
+how we know •colours, pains etc.
+
+He’ll realize this with special force if he considers the wide
+gap between our knowledge of
+•the features of bodies that we’re vividly aware of (as I
+said earlier)—the size of the bodies we see, their shape,
+motion, position, duration, number and so on
+18
+
+Principles of Philosophy
+
+René Descartes
+
+at least could be present in objects in the same way that we
+sense or understand them; and we vividly perceive this to
+be the case. That makes it easy for us to fall into the error
+of judging that so-called ‘colour’ in objects is exactly like
+the colour that we’re aware of through our senses, wrongly
+thinking we have a brightly open perception of something
+that we don’t perceive at all.
+
+1: Human knowledge
+
+mind realized, produced by the objects in question. Moreover,
+because it judged everything in terms of its usefulness to
+the body in which it was immersed, (2) the mind assessed
+the amount of reality in each object by how greatly it was
+affected by it. That led it to suppose that there is more
+substance—more body—in rocks and metals than in water
+or air. . . . Indeed, in a moderate temperature with no wind,
+the mind regarded the air as a mere nothing. And because
+the light coming from the stars appeared no brighter than
+that produced by the meager glow of an oil lamp, (3) the mind
+didn’t imagine any star as being any bigger than this. And
+because it did not observe that the earth turns on its axis or
+that its surface is curved to form a globe, (4) the mind was
+apt to suppose that the earth is immobile and its surface flat.
+Right from infancy our mind was swamped with a thousand
+such prejudices; and in later childhood, forgetting how little
+basis there had been for adopting them, it regarded them as
+known by the senses or implanted by nature, and accepted
+them as utterly true and utterly obvious.
+
+71. The prejudices of childhood are the chief causes of error.
+This is the first and main cause of all our errors. In our
+infancy, the mind was so closely tied to the body that it
+couldn’t make room for any thoughts other than ones involving sensory awareness of what was happening in the body.
+It didn’t connect these thoughts to anything outside itself,
+but merely felt pain when something was harming the body
+and felt pleasure when the body received some benefit. And
+when nothing very beneficial or harmful was happening to
+the body, the mind had various sensations corresponding to
+where and how the body was being stimulated—i.e. it had the
+sensations of tastes, smells, sounds, heat, cold, light, colours
+and so on, sensations that don’t represent anything located
+outside our thought. Also in infancy, the mind perceived
+sizes, shapes, motions etc. that were presented to it not as
+sensations but as things, or qualities of things, that did or
+at least could exist outside thought, though the mind wasn’t
+yet aware of the difference between things and sensations.
+Background to the next step: The mechanism of the body is
+so constructed by nature that it can move in various ways by
+its own power, whirling around in its attempts to pursue the
+beneficial and avoid the harmful. Now, the mind that was
+fixated on the body began to notice that the things it was
+trying to get or avoid had an existence outside itself; and (1)
+it credited them with having not only •sizes, shapes, motions
+etc., which it perceived as things or qualities of things, but
+also •tastes, smells etc., the sensations of which were, the
+
+72. The second cause of error is that we can’t forget our
+prejudices.
+
+When we are grown up, the mind is no longer a total slave
+to the body and doesn’t relate everything to it. Indeed, it
+inquires into the truth of things considered in themselves,
+and learns that very many of its previous judgments are false.
+Yet the mind finds it hard to erase these false judgments
+from its memory; and as long as they stay there they can
+cause various errors. For example, in our early childhood
+we imagined the stars as being very small; astronomical
+arguments now clearly show us that they are enormous; but
+our prejudice is still so strong that we can’t easily imagine
+them differently from how we did as children.
+
+19
+
+Principles of Philosophy
+
+René Descartes
+
+73. The third cause of error: we find it exhausting to think
+
+1: Human knowledge
+
+words more than with things; with the result that people often assent to words—words they don’t understand—thinking
+that •they used to understand them, or that they got them
+from someone who did understand them. I can’t go into
+this in careful detail here, because I haven’t yet dealt with
+the nature of the human body—indeed I haven’t proved that
+there are any bodies! Still, what I have said up to here
+may be understandable enough to help you to sort out your
+concepts into •those that are vivid and clear from •those that
+are obscure and confused.
+
+about things that aren’t present to our senses; so our judgments about them are usually based not on •present thinking
+but on •preconceived opinions.
+
+Our mind finds it difficult and tiring to stay focussed on
+anything, and especially to stay focussed on things that
+aren’t present to the senses or even to the imagination. (Why
+·this bias in favour of image-bound thinking·? Perhaps it’s
+built into the mind as a result of its being joined to the
+body. Or perhaps it’s because the mind has had much more
+practice in image-bound thinking, because that’s the only
+thinking it did in our earliest years.) One upshot of this
+is that many people’s understanding of substance is still
+limited to what they can imagine or even to what they can
+perceive by their senses. They don’t realize that the only
+things •imagination gets a grip on are ones have extension,
+motion and shape, and that many other things can be tackled
+through the •understanding. And they suppose further that
+the only independently existing things are bodies, and that
+all bodies can be perceived by the senses. ·This means
+that they turn their backs on the truth about the world,
+because·, as I shall make obvious later on, we don’t perceive
+the true nature of anything by the senses alone! That’s why
+most people have only confused perceptions throughout their
+entire lives.
+
+75. Summary of the rules to be observed in order to philosophize correctly.
+
+If we are to philosophize seriously and search out the truth
+about everything that can be known, we must first dislodge
+all our prejudices, or at least take care not to trust any of
+our old opinions without first re-examining them to check
+on their truth. Next, we must focus in an orderly way on
+the notions that we have within us, identifying the ones
+whose truth we vividly and clearly recognize when we focus
+intently on them, and accepting as true those and only
+those. By doing this ·we’ll come to be in possession of some
+secure truths with which we can start to theorize soundly.
+Specifically·, we’ll come to realize (1) that we exist as thinking
+beings, (2) that there is a God, and (3) that we depend on
+him, and also (4) that by attending to God’s attributes we
+can investigate the truth about other things, because God is
+their cause. Finally, we’ll see that we have within us, along
+with notions of God and of our mind, knowledge of many
+eternally true propositions, e.g. (5) that nothing comes from
+nothing. We’ll also learn (6) that we have knowledge both
+of a corporeal or extended nature that is divisible, movable,
+etc. and also of certain sensations such as those of pain,
+colours, tastes and so on (though we don’t yet know what
+causes them or why). When we contrast all this knowledge
+
+74. The fourth cause of error is that we attach our concepts
+to words that don’t precisely correspond to real things.
+Language-use has us •tying all our concepts to the words
+
+used to express them, and when we store the concepts in
+our memory •storing corresponding words along with them.
+Then we find the words easier to recall than the things;
+and because of this our concept of a •thing is seldom sharp
+enough for us to separate it totally from our concept of •the
+words involved. Most peoples’ thoughts are concerned with
+20
+
+Principles of Philosophy
+
+René Descartes
+
+with the confused thoughts we had before, we’ll get the habit
+of forming vivid and clear concepts of all the things that can
+be known. These few instructions seem to me to contain the
+most important principles of human knowledge.
+76. Divine authority must be put before our own perception;
+
+1: Human knowledge
+
+Straight translation of section 57:
+
+Now some attributes or modes are in the very things of which
+they are said to be attributes or modes, while others are only
+in our thought. For example, when time is distinguished
+from duration taken in the general sense and called the
+measure of movement, it is simply a mode of thought. For the
+duration which we understand to be involved in movement
+is certainly no different from the duration involved in things
+which do not move. This is clear from the fact that if there
+are two bodies moving for an hour, one slowly and the other
+quickly, we do not reckon the amount of time to be greater
+in the latter case than the former, even though the amount
+of movement may be much greater. But in order to measure
+the duration of all things, we compare their duration with
+the duration of the greatest and most regular motions which
+give rise to years and days, and we call this duration ‘time’.
+Yet nothing is thereby added to duration, taken in its general
+sense, except for a mode of thought.
+
+but apart from that the philosopher should give his assent
+only to what he has perceived.
+
+Above all else we must impress on our memory the overriding
+rule that whatever God has revealed to us must be accepted
+as more certain than anything else. And although the light
+of reason may, with the most shining obviousness, appear
+to suggest something different, we must still put our entire
+faith in divine authority rather than in our own judgment.
+But on matters where divine faith has nothing to say, it is
+unworthy of a philosopher to accept anything as true if he
+hasn’t ever established its truth by thorough scrutiny; and
+he should never rely on the senses—i.e. on the ill-considered
+judgments of his childhood—in preference to his mature
+powers of reason.
+
+21
+
+
